@@ -1,5 +1,11 @@
 **Benvenuti nel wiki (temporaneo) del nascente LUG di Imperia.<br>
 -----------------------------------------------------------**
 
-*Una mailing list è attualmente attiva presso [Google Groups](http://groups.google.com/group/utilizzatori-gnulinux-prov-im) (l'iscrizione necessita approvazione).*
+*Una mailing list è attualmente attiva presso [Google Groups](http://groups.google.com/group/utilizzatori-gnulinux-prov-im) (l'iscrizione necessita approvazione).*<br><br>
 Di seguito vi riporto i links dei sondaggi a cui rispondere (i sondaggi scadranno la sera di domenica 5 dicembre 2010):
+
+[Votazione per la scelta del nome del nuovo GNU/LUG][1]
+
+
+  [1]: http://doodle.com/s3etmg2kx87y566c
+<br>
