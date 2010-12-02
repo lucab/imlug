@@ -1,15 +1,16 @@
-[Adesione per Incontro Straordinario di Venerdì Sera 10 Dicembre 2010][3]
+**Benvenuti nel wiki (temporaneo) del nascente LUG di Imperia.
+----------------------------------------**
 
-[Adesione per Incontro Straordinario di Venerdì Sera 10 Dicembre 2010][3]Benvenuti nel wiki (temporaneo) del nascente LUG di Imperia.
-----------------------------------------
-
-Una mailing list è attualmente attiva presso [Google Groups](http://groups.google.com/group/utilizzatori-gnulinux-prov-im) (l'iscrizione necessita approvazione).
+Una mailing list è attualmente attiva presso [Google Groups]([3][http://groups.google.com/group/utilizzatori-gnulinux-prov-im][1][3]) (l'iscrizione necessita approvazione).
 
 Di seguito vi riporto i links dei sondaggi a cui rispondere (i sondaggi scadranno la sera di domenica 5 dicembre 2010):
 
-**[Votazione per scelta del nome del GNU/LUG][1]
-[Votazione per scelta del giorno fisso settimanale per incontrarsi][2]
+**[Votazione per scelta del nome del GNU/LUG][2]
+[Votazione per scelta del giorno fisso settimanale per incontrarsi][3]
 [Adesione per Incontro Straordinario di Venerdì Sera 10 Dicembre 2010][3]
-  [1]: http://doodle.com/s3etmg2kx87y566c
-  [2]: http://doodle.com/f2uktsn33vsn7r7b
   [3]: http://www.doodle.com/9xissd8xeebda53c[Adesione per Incontro Straordinario di Venerdì Sera 10 Dicembre 2010][3]**
+
+
+  [1]: http://groups.google.com/group/utilizzatori-gnulinux-prov-im
+  [2]: http://doodle.com/s3etmg2kx87y566c
+  [3]: http://doodle.com/f2uktsn33vsn7r7b
