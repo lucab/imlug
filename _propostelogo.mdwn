@@ -1,0 +1,11 @@
+Per il logo sono richieste le seguenti caratteristiche:
+
+  - Formato SVG
+  - Licenza Libera (CC-by-sa o simile)
+
+Alcune caratteristiche interessanti potrebbero essere:
+
+  - facilmente convertibile in un logo piccolo (32x32 tipo favicon)
+  - buon contrasto (accessibilità per ipovedenti)
+
+Nuove proposte saranno accettate indicativamente fino al 31/12/2010... 
