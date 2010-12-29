@@ -1,2 +1,13 @@
 Al nostro LUG manca ancora un nome!
 Fate la vostra proposta...
+
+
+La proposta che per il momento ha ottenuto più preferenze è **SLIM**.
+Purtroppo è un acronimo molto comune ed è impossibile trovare un dominio non ancora registrato (slim.it, slim.org, etc). 
+
+Si accettano proposte alternative, sia come nome che come dominio.
+
+  - Softare Libero Imperia - domini liberi: slimp.it, slimp.org, sliim.it
+  - utenti slim - domini liberi: uslim.it, uslim.org (suona troppo ospedaliero?)
+  - FLOSS IMperia - domini liberi: flossim.it, flossim.org
+  - altro...
