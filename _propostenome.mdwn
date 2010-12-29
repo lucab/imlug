@@ -11,4 +11,5 @@ Si accettano proposte alternative, sia come nome che come dominio.
   - Softare Libero Imperia - domini liberi: slimp.it, slimp.org, sliim.it, solim.org
   - utenti slim - domini liberi: uslim.it, uslim.org (suona troppo ospedaliero?)
   - FLOSS IMperia - domini liberi: flossim.it, flossim.org
+  - Software Libero Imperia LUG (slimlug) - domini liberi: slimlug.it
   - altro...
