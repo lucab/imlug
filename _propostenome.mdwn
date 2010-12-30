@@ -6,10 +6,25 @@ La proposta che per il momento ha ottenuto più preferenze è **SLIM** (**S**oft
 
 Purtroppo è un acronimo molto comune ed è impossibile trovare un dominio non ancora registrato (slim.it, slim.org, etc). 
 
-Si accettano proposte alternative, sia come nome che come dominio.
+Le linee guide fissate all'inizio erano:
 
-  - Softare Libero Imperia - domini liberi: slimp.it, slimp.org, sliim.it, solim.org
-  - utenti slim - domini liberi: uslim.it, uslim.org (suona troppo ospedaliero?)
-  - FLOSS IMperia - domini liberi: flossim.it, flossim.org
-  - Software Libero Imperia LUG (slimlug) - domini liberi: slimlug.it, slimlug.org, slimglug.org, slimglug.it
-  - altro...
+ 1. Evitare acronimi di difficile pronuncia (aka verso del tacchino)
+ 2. Evitare il problema di GLUG/LUG/FSUG e discussioni inutili
+
+Abbiamo quindi a disposizione due alternative:
+
+Cambiare leggermente il nome del gruppo; possibilità:
+----------------------------------------
+  
+  - SLIMP (Softare Libero IMPeria) - domini liberi: slimp.it, slimp.org
+  - SLIIM (Softare LIbero IMperia) - domini liberi: sliim.it
+  - SOLIM (SOftare Libero IMperia) - domini liberi: solim.org
+  - USLIM (Utenti Software Libero Imperia) - domini liberi: uslim.it, uslim.org (suona troppo ospedaliero?)
+  - Software Libero Imperia GLUG (slimglug o simili) - domini liberi: slimlug.it, slimlug.org, slimglug.org, slimglug.it
+
+Trovare qualcosa da aggiungere al dominio che non sia invasivo; possibilità:
+----------------------------------------
+
+  - slim-it.org
+  - slim-imperia.org (troppo lungo, presenta ripetizione di "Imperia")
+  - slim-hq.org (troppo anglofilo, buona fortuna a spiegarlo ai vecchietti)
