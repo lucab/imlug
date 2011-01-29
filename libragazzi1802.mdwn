@@ -1,0 +1,30 @@
+## Serata presso Libreria dei Ragazzi ##
+
+È in corso di organizzazione una serata introduttiva, il giorno 18 Febbraio 2011 presso la *Libreria dei Ragazzi* di Imperia.
+
+Le proposte saranno rivolte a un 
+pubblico presumibilmente costituito da utenti Windows medi, neofiti di 
+Linux che vogliono imparare qualcosa di più.
+
+Pensavamo di proporre l'utilizzo di 2 
+portatili (uno Enrico, l'altro da vedere) collegati a 2 proiettori 
+(uno della Libreria Ragazzi, uno probabilmente fornito da Michel) 
+con cui faremo vedere in contemporanea cosa 
+si fa solitamente con Windows e come si fa la stessa cosa su Linux.
+Questo un elenco di demo, ancora da filtrare e sistemare:
+
+  1. Prestazioni migliori (confronto tra “Gestione attività” di Windows e “Monitor di Sistema” di Ubuntu
+  2. Un solo ambiente di lavoro in Windows contro più ambienti di lavoro con Ubuntu
+  3. Finestre tremolanti
+  4. Altri effetti Compiz: cubo ruotante
+  5. Ubuntu software center: migliaia di programmi gratuiti e immediatamente installabili (la Libreria è fornita di connessione  wi-fi)
+  6. Linux live su chiavetta USB.
+  7. Pulsanti di chiusura spostabili da sinistra a destra (o viceversa)
+  8. Icone personalizzabili
+  9. Pacchetto MS-Office contro OpenOffice
+  10. Mozilla Firefox contro Internet Explorer
+  11. Evolution (o Mozilla Thunderbird) contro Outlook
+  12. Funziona anche Google Earth!!! (Se è per quello, funziona anche Sweet home 3d invece del planner di Ikea)
+  13. emule contro amule
+  14. msn contro amsn
+  15. ...
