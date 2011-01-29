@@ -1,8 +1,12 @@
-![alt text][1]<br>
+![Logo temporaneo][1]<br>
 # **Benvenuti nel wiki (temporaneo) del nascente LUG di Imperia**
 
 
 Una **mailing list** è attualmente attiva presso [Google Groups](http://groups.google.com/group/utilizzatori-gnulinux-prov-im) (l'iscrizione necessita approvazione).
+
+Progetti in corso:
+
+  - [[Serata presso Libreria dei Ragazzi|LibRagazzi1802]] (Imperia - 18/02/2011) 
 
 
 Attualmente sono in discussione sulla ML i seguenti argomenti:
