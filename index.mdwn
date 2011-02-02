@@ -1,8 +1,25 @@
-[[!img lugsmall.jpeg align=right]]
+[[!template id=note text="""
+
+<div align="center">
+
+<b>Prossimo evento:</b><br />
+<a href="http://www.govonis.org/index.php?option=com_content&view=article&id=58:squeeze-release-party&catid=3:avvenimenti&Itemid=8">Debian Release Party a Finale Ligure
+<br />
+<br />
+<img src="http://www.govonis.org/images/stories/drd2c-500p.jpg" width="200" height="285" />
+</a>
+</div>
+"""]]
+
 
 # **Benvenuti nel wiki del FSUG di Imperia**
 
-A Imperia e provincia è da poco attivo un gruppo di utenti GNU/Linux (e non solo) a supporto del Software Libero. 
+[[!img lugsmall.jpeg align=left link=no]]
+
+A Imperia e provincia è da poco attivo un gruppo di utenti GNU/Linux (e non solo) a supporto del Software Libero.
+Il gruppo SLIMP (Software Libero IMperia e Provincia) è formato da utenti che apprezzano la libertà e la funzionalità del sistema GNU/LINUX, e funziona da centro di scambio di esperienze e conoscenze.
+
+Il gruppo non ha ancora una sede fissa di incontri, ma capita spesso di ritrovarsi tutti davanti ad una tavolata ben imbandita in giro per la provincia.
 
 Una **mailing list** è attualmente attiva presso [Google Groups](http://groups.google.com/group/utilizzatori-gnulinux-prov-im) (l'iscrizione necessita approvazione).
 
@@ -16,4 +33,5 @@ Attualmente sono in discussione sulla ML i seguenti argomenti:
   - [[Proposte per nome del LUG | ProposteNome]]
   - [[Proposte per logo | ProposteLogo]]
 
-  [1]: http://gumbi.altervista.org/lugsmall.jpeg
+
+  [1]: lugsmall.jpeg
