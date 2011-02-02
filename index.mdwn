@@ -1,6 +1,8 @@
-![Logo temporaneo][1]<br>
-# **Benvenuti nel wiki (temporaneo) del nascente LUG di Imperia**
+[[!img lugsmall.jpeg align=right]]
 
+# **Benvenuti nel wiki del FSUG di Imperia**
+
+A Imperia e provincia è da poco attivo un gruppo di utenti GNU/Linux (e non solo) a supporto del Software Libero. 
 
 Una **mailing list** è attualmente attiva presso [Google Groups](http://groups.google.com/group/utilizzatori-gnulinux-prov-im) (l'iscrizione necessita approvazione).
 
