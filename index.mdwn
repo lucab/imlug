@@ -3,7 +3,7 @@
 <div align="center">
 
 <b>Prossimo evento:</b><br />
-<a href="http://www.govonis.org/index.php?option=com_content&view=article&id=58:squeeze-release-party&catid=3:avvenimenti&Itemid=8">Debian Release Party a Finale Ligure
+[08/02] <a href="http://www.govonis.org/index.php?option=com_content&view=article&id=58:squeeze-release-party&catid=3:avvenimenti&Itemid=8">Debian Release Party a Finale Ligure
 <br />
 <br />
 <img src="http://www.govonis.org/images/stories/drd2c-500p.jpg" width="200" height="285" />
@@ -30,8 +30,9 @@ Progetti in corso:
 
 Attualmente sono in discussione sulla ML i seguenti argomenti:
 
-  - [[Proposte per nome del LUG | ProposteNome]]
   - [[Proposte per logo | ProposteLogo]]
+  - <strike>[[Proposte per nome del LUG | ProposteNome]]</strike>
+
 
 
   [1]: lugsmall.jpeg
