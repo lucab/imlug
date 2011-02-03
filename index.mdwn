@@ -19,7 +19,7 @@
 A Imperia e provincia è da poco attivo un gruppo di utenti GNU/Linux (e non solo) a supporto del Software Libero.
 Il gruppo SLIMP (Software Libero IMperia e Provincia) è formato da utenti che apprezzano la libertà e la funzionalità del sistema GNU/LINUX, e funziona da centro di scambio di esperienze e conoscenze.
 
-Il gruppo non ha ancora una sede fissa di incontri, ma capita spesso di ritrovarsi tutti davanti ad una tavolata ben imbandita in giro per la provincia.
+Il gruppo non ha ancora una sede fissa di incontri, ma capita spesso di ritrovarsi tutti davanti ad una tavolata ben imbandita in giro per la provincia. Invece, ci ritroviamo online tutte le sere sul canale [#slimp di Freenode](irc://frenode.net/#slimp).
 
 Una **mailing list** è attualmente attiva presso [Google Groups](http://groups.google.com/group/utilizzatori-gnulinux-prov-im) (l'iscrizione necessita approvazione).
 
