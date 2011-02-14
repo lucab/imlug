@@ -1,5 +1,5 @@
 ## Serata presso Libreria dei Ragazzi (tagline: "Perchè usare ancora Windows?") ##
-Software Libero e GNU/Linux a Imperia
+Software Libero e GNU/Linux a Imperia![alt text][2]
 
 L'utilizzo di **GNU/Linux** (e del **Software Libero** in generale) al posto dei più noti sistemi proprietari Windows e Mac OS sarà il principale argomento dell'incontro proposto gratuitamente per la sera di venerdì 18 febbraio alla **Libreria Ragazzi** di Imperia Oneglia, in via Vieusseux 14. Dalle 21 alle 23, nello spazio della sala presentazioni e nell'annessa caffetteria, il gruppo cittadino **SLIMP (Software Libero Imperia & Provincia)** e vari contributori presenteranno i vantaggi dell'adozione di programmi che possano essere acquisiti, utilizzati, modificati e scambiati senza alcun limite, vincolo o costrizione, secondo i principi dettati dalla **Free Software Foundation** del guru americano Richard Stallman.
 
@@ -12,4 +12,7 @@ Grande attenzione sarà anche riservata alle possibilità di utilizzo del Softwa
 Ulteriori informazioni all'indirizzo e-mail: [gyrev@vodafone.it.][1] 
 
 
+
+
   [1]: mailto:gyrev@vodafone.it
+  [2]: http://kde.gulp.linux.it/foto.php?id=80
