@@ -1,34 +1,12 @@
 ## Serata presso Libreria dei Ragazzi (tagline: "Perchè usare ancora Windows?") ##
+Software Libero e GNU/Linux a Imperia
 
-È in corso di organizzazione una serata introduttiva, il giorno 18 Febbraio 2011 presso la *Libreria dei Ragazzi* di Imperia.
+L'utilizzo di GNU/Linux (e del Software Libero in generale) al posto dei più noti sistemi proprietari Windows e Mac OS sarà il principale argomento dell'incontro proposto gratuitamente per la sera di venerdì 18 febbraio alla Libreria Ragazzi di Imperia Oneglia, in via Vieusseux 14. Dalle 21 alle 23, nello spazio della sala presentazioni e nell'annessa caffetteria, il gruppo cittadino SLIMP (Software Libero Imperia & Provincia) e vari contributori presenteranno i vantaggi dell'adozione di programmi che possano essere acquisiti, utilizzati, modificati e scambiati senza alcun limite, vincolo o costrizione, secondo i principi dettati dalla Free Software Foundation del guru americano Richard Stallman.
 
-Le proposte saranno rivolte a un 
-pubblico presumibilmente costituito da utenti Windows medi, neofiti di 
-Linux che vogliono imparare qualcosa di più.
+In particolare saranno mostrate le caratteristiche e le funzionalità delle principali distribuzioni di Software Libero e dei più comuni sistemi GNU/Linux come Ubuntu, Debian, Mandriva, Fedora, che comprendono programmi già noti al grande pubblico come il browser di navigazione Firefox, il client di posta elettronica Thunderbird, la suite di videoscrittura OpenOffice.org e il programma di fotoritocco Gimp. Liberamente scaricabili da Internet, i dvd delle distribuzioni di software GNU/Linux possono essere installati e provati in live su qualunque computer, senza interferire in alcun modo con l'attività dei sistemi già presenti. 
 
-Pensavamo di proporre l'utilizzo di 2 
-portatili (uno Enrico, l'altro da vedere) collegati a 2 proiettori 
-(uno della Libreria Ragazzi, uno probabilmente fornito da Michel) 
-con cui faremo vedere in contemporanea cosa 
-si fa solitamente con Windows e come si fa la stessa cosa su Linux.
-Questo un elenco di demo, ancora da filtrare e sistemare:
+Durante la serata sarà possibile scoprire le doti comuni dei più diffusi Software Liberi, che oltre a essere totalmente gratuiti, sono immuni a qualunque tipo di virus, spyware, trojan, costantemente aggiornati dal lavoro dei programmatori di tutto il mondo e altamente personalizzabili. Lo stesso incontro di venerdì alla Libreria Ragazzi darà la possibilità, a chi porterà il proprio computer, di  installare una distribuzione GNU/Linux insieme ai membri del neonato gruppo SLIMP. 
 
- 1. Prestazioni migliori (confronto tra “Gestione attività” di Windows e “Monitor di Sistema” di Ubuntu
- 2. Un solo ambiente di lavoro in Windows contro più ambienti di lavoro con Ubuntu
- 3. Finestre tremolanti
- 4. Altri effetti Compiz: cubo ruotante
- 5. Ubuntu software center: migliaia di programmi gratuiti e immediatamente installabili (la Libreria è fornita di connessione  wi-fi)
- 6. Linux live su chiavetta USB.
- 7. Pulsanti di chiusura spostabili da sinistra a destra (o viceversa)
- 8. Icone personalizzabili
- 9. Pacchetto MS-Office contro OpenOffice
- 10. Mozilla Firefox contro Internet Explorer
- 11. Evolution (o Mozilla Thunderbird) contro Outlook
- 12. Funziona anche Google Earth!!! (Se è per quello, funziona anche Sweet home 3d invece del planner di Ikea)
- 13. emule contro amule
- 14. msn contro amsn
- 15. “Antivirus+Firewall+mille aggiornamenti” contro nulla e aggiornamenti automatici tutti insieme
- 16. C'è anche Skype
- 17. Licenza GPL contro licenze proprietarie
+Grande attenzione sarà anche riservata alle possibilità di utilizzo del Software Libero nel mondo delle scuole, della pubblica amministrazione e delle aziende che si trovano quotidianamente a rapportarsi con il mondo dell'informatica. Per tutti saranno proposte soluzioni in grado di far risparmiare soldi e tempo e accrescere le conoscenze in campo tecnologico, in un clima conviviale in cui si cercherà di trovare una risposta a qualunque domanda sul mondo dei computer e dei programmi che li fanno funzionare. 
 
-
+Ulteriori informazioni all'indirizzo e-mail: gyrev@vodafone.it. 
