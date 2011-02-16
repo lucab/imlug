@@ -1,5 +1,16 @@
 # **Benvenuti nel wiki del FSUG di Imperia**
 
+[[!template id=note text="""
+<div align="center">
+<b>Prossimo evento:</b><br />
+[18/02] <a href="http://www.slimp.it/libragazzi1802/">Software Libero alla Libreria dei Ragazzi
+<br />
+<br />
+<img src="http://a5.sphotos.ak.fbcdn.net/hphotos-ak-ash1/181972_1789569229937_1560796500_1802233_2914660_n.jpg" width="200" height="285" />
+</a>
+</div>
+"""]]
+
 [[!img lugsmall.jpeg align=left link=no]]
 
 A Imperia e provincia è da poco attivo un gruppo di utenti GNU/Linux (e non solo) a supporto del Software Libero.
