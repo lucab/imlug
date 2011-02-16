@@ -1,7 +1,12 @@
 ## Software Libero e GNU/Linux a Imperia##
 
-
-![Locandina dell'evento][1]
+[[!template id=note text="""
+<div align="center">
+<a href="http://a5.sphotos.ak.fbcdn.net/hphotos-ak-ash1/181972_1789569229937_1560796500_1802233_2914660_n.jpg">
+<img src="http://a5.sphotos.ak.fbcdn.net/hphotos-ak-ash1/181972_1789569229937_1560796500_1802233_2914660_n.jpg" width="200" height="285" />
+</a>
+</div>
+"""]]
 
 L'utilizzo di **GNU/Linux** (e del **Software Libero** in generale) al posto dei più noti sistemi proprietari Windows e Mac OS sarà il principale argomento dell'incontro proposto gratuitamente per la sera di venerdì 18 febbraio alla **Libreria Ragazzi** di Imperia Oneglia, in via Vieusseux 14. Dalle 21 alle 23, nello spazio della sala presentazioni e nell'annessa caffetteria, il gruppo cittadino **SLIMP (Software Libero Imperia & Provincia)** e vari contributori presenteranno i vantaggi dell'adozione di programmi che possano essere acquisiti, utilizzati, modificati e scambiati senza alcun limite, vincolo o costrizione, secondo i principi dettati dalla **Free Software Foundation** del guru americano Richard Stallman.
 
@@ -13,6 +18,4 @@ Grande attenzione sarà anche riservata alle possibilità di utilizzo del Softwa
 
 Ulteriori informazioni all'indirizzo e-mail: [gyrev@vodafone.it.][2] 
 
-
-  [1]: http://a5.sphotos.ak.fbcdn.net/hphotos-ak-ash1/181972_1789569229937_1560796500_1802233_2914660_n.jpg
   [2]: mailto:gyrev@vodafone.it
