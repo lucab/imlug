@@ -1,5 +1,3 @@
-# **Benvenuti nel wiki del FSUG di Imperia**
-
 [[!template id=note text="""
 <div align="center">
 <b>Prossimo evento:</b><br />
@@ -10,6 +8,8 @@
 </a>
 </div>
 """]]
+
+# **Benvenuti nel wiki del FSUG di Imperia**
 
 [[!img lugsmall.jpeg align=left link=no]]
 
