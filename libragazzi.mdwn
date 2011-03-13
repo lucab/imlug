@@ -2,8 +2,9 @@ Circa una volta al mese ci ritroviamo presso la **Libreria dei Ragazzi** di Impe
 
 Prossimo appuntamento:
 
-  - [[Hardware e Linux (11/03)| libragazzi/11mar2011]]
+  
 
 Appuntamenti passati:
 
   - [[Incontro introduttivo (18/02)|libragazzi/18feb2011]]
+  - [[Hardware e Linux (11/03)| libragazzi/11mar2011]]
