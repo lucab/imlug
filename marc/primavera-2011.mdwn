@@ -5,8 +5,8 @@
 
 ## Serve ##
 
-1)un logo per fare eventualmente un volantino
-2)persone eventualmente disponibili  per stare in fiera
+ 1. un logo per fare eventualmente un volantino 
+ 2. persone eventualmente disponibili  per stare in fiera
 
 ## Turni ##
 
