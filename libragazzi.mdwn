@@ -1,10 +1,14 @@
 Circa una volta al mese ci ritroviamo presso la **Libreria dei Ragazzi** di Imperia.
+Per indicazioni su come arrivare, consulta la [mappa][1].
 
 Prossimo appuntamento:
 
-  
+  - [[Domande e Risposte su Linux (29/04)|libragazzi/29apr2011]]
 
 Appuntamenti passati:
 
   - [[Incontro introduttivo (18/02)|libragazzi/18feb2011]]
   - [[Hardware e Linux (11/03)| libragazzi/11mar2011]]
+
+
+  [1]: http://maps.cloudmade.com/?lat=43.889279&lng=8.041177&zoom=17&directions=43.88978594011755,8.04075837135315&travel=car&styleId=1&opened_tab=0
