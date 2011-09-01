@@ -10,13 +10,16 @@ Il gruppo non ha ancora una sede fissa di incontri, ma capita spesso di ritrovar
 Le discussioni e l'organizzione del gruppo avvengono attraverso la mailing list **Bazar**. 
 Per partecipare è sufficiente registrarsi su [[http://lists.slimp.it/listinfo/bazar]].
 
-Progetti in corso:
+# Discussioni e progetti dello SLIMP
 
-  - Incontri divulgativi presso la [[Libreria dei Ragazzi|libragazzi]]
+Attualmente in corso:
 
-Attualmente sono in discussione sulla ML i seguenti argomenti:
+  - [[LinuxDay 2011 |linuxday/2011]]
+  - Incontri mensili presso la [[Libreria dei Ragazzi|libragazzi]]
+  - Raccogliere tutte le [[proposte per il logo | ProposteLogo]] e scegliere quello definitivo
 
-  - [[Proposte per logo | ProposteLogo]]
+Passate:
+
   - <strike>[[Proposte per nome del LUG | ProposteNome]]</strike>
   - <strike>Organizzazione [[MARC di primavera 2011|marc/primavera-2011]]</strike>
 
