@@ -3,10 +3,11 @@ Per indicazioni su come arrivare, consulta la [mappa][1].
 
 Prossimo appuntamento:
 
-  - [[Domande e Risposte su Linux (29/04)|libragazzi/29apr2011]]
+  - [[Sorgenti e compilazione (23/09)|libragazzi/23set2011]]
 
 Appuntamenti passati:
 
+  - [[Domande e Risposte su Linux (29/04)|libragazzi/29apr2011]]
   - [[Incontro introduttivo (18/02)|libragazzi/18feb2011]]
   - [[Hardware e Linux (11/03)| libragazzi/11mar2011]]
 
