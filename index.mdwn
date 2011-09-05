@@ -1,6 +1,6 @@
 # **Benvenuti nel wiki del FSUG di Imperia**
 
-[[!img lugsmall.jpeg align=left link=no]]
+[[!img slimp_logotype.png align=right link=no hspace=30px]]
 
 A Imperia e provincia è da poco attivo un gruppo di utenti GNU/Linux (e non solo) a supporto del Software Libero.
 Il gruppo SLIMP (**S**oftware **L**ibero **IM**peria e **P**rovincia) è formato da utenti che apprezzano la libertà e la funzionalità del sistema GNU/LINUX, e funziona da centro di scambio di esperienze e conoscenze.
@@ -23,6 +23,3 @@ Passate:
   - <strike>[[Proposte per nome del LUG | ProposteNome]]</strike>
   - <strike>Organizzazione [[MARC di primavera 2011|marc/primavera-2011]]</strike>
 
-
-
-  [1]: lugsmall.jpeg
