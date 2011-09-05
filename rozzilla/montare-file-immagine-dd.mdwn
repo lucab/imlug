@@ -36,6 +36,6 @@ Codice:
 Codice:
 >    sudo mount -o ro,loop,offset=105906176 -t ntfs immagine.dd /media/DiscRo/mount-dd
 
-E il tutto ha funzionato egregiamente.
+7. Dato questo comando il tutto ha funzionato egregiamente. Difatti mi si è automaticamente aperta la directory  /media/DiscRo/mount-dd  contentente tutti i dati presenti nel file immagine.dd.
 
 Ringrazio ancora il gruppo software libero imperia e provincia per l'aiuto che ho ricevuto. :)
