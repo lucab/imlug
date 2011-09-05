@@ -30,7 +30,6 @@ Codice:
 >    1      1048576B    105906175B     104857600B     primary  ntfs         avvio
 >    2      105906176B  119999037439B  119893131264B  primary  ntfs
 
-
 6. Una volta capiti a che offset cominciavano le partizioni (offset=105906176), per visualizzare il file immagine .dd, ho dato da terminale:
 
 Codice:
