@@ -31,10 +31,8 @@ Codice:
 >    2      105906176B  119999037439B  119893131264B  primary  ntfs
 
 6. Una volta capiti a che offset cominciavano le partizioni (offset=105906176), per visualizzare il file immagine .dd, ho dato da terminale:
-
-Codice:
 >    sudo mount -o ro,loop,offset=105906176 -t ntfs immagine.dd /media/DiscRo/mount-dd
 
-7. Dato questo comando il tutto ha funzionato egregiamente. Difatti mi si è automaticamente aperta la directory  /media/DiscRo/mount-dd  contentente tutti i dati presenti nel file immagine.dd.
+Dato questo comando il tutto ha funzionato egregiamente. Difatti mi si è automaticamente aperta la directory  /media/DiscRo/mount-dd  contentente tutti i dati presenti nel file immagine.dd.
 
 Ringrazio ancora il gruppo software libero imperia e provincia per l'aiuto che ho ricevuto. :)
