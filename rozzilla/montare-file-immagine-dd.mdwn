@@ -6,35 +6,35 @@ Ecco i passi, spiegati da gruppo SLIMP, per risolvere il problema:
 
 1. Abbiamo analizzato il file immagine.dd, con il comando:
 Codice:
-    file immagine.dd
+>    file immagine.dd
 
 2. A questo punto hanno capito che erano presenti 2 partizioni:
 Codice:
-    immagine.dd: x86 boot sector; partition 1: ID=0x7, active, starthead 32, startsector 2048, 204800 sectors;     partition 2: ID=0x7, starthead 223, startsector 206848, 234166272 sectors, code offset 0xc0, OEM-ID "      м",   Bytes/sector 190, sectors/cluster 124, reserved sectors 191, FATs 6, root entries 185, sectors 64514 (volumes <=32 MB) , Media descriptor 0xf3, sectors/FAT 20644, heads 6, hidden sectors 309755, sectors 2147991229 (volumes > 32   MB) , physi
+>    immagine.dd: x86 boot sector; partition 1: ID=0x7, active, starthead 32, startsector 2048, 204800 sectors;     partition 2: ID=0x7, starthead 223, startsector 206848, 234166272 sectors, code offset 0xc0, OEM-ID "      м",   Bytes/sector 190, sectors/cluster 124, reserved sectors 191, FATs 6, root entries 185, sectors 64514 (volumes <=32 MB) , Media descriptor 0xf3, sectors/FAT 20644, heads 6, hidden sectors 309755, sectors 2147991229 (volumes > 32   MB) , physi
     cal drive 0x7e, dos < 4.0 BootSector (0x0)
 
 3. Sempre seguendo i loro consigli ho analizzato le partizioni da terminale, con il seguente comando:
 Codice:
-    sudo parted immagine.dd
+>    sudo parted immagine.dd
 
 4. Quindi ho digitato:
-    unit (invio) B (invio) print (invio)
+>    unit (invio) B (invio) print (invio)
 
 5. Questo è stato l'output:
 Codice:
-    Modello:  (file)
-    Disco /media/DiscRo/dati-recuperati/immaginedd/immagine.dd: 120000000000B
-    Dimensione del settore (logica/fisica): 512B/512B
-    Tabella delle partizioni: msdos
-    Numero  Inizio      Fine           Dimensione     Tipo     File system  Flag
-    1      1048576B    105906175B     104857600B     primary  ntfs         avvio
-    2      105906176B  119999037439B  119893131264B  primary  ntfs
+>    Modello:  (file)
+>    Disco /media/DiscRo/dati-recuperati/immaginedd/immagine.dd: 120000000000B
+>    Dimensione del settore (logica/fisica): 512B/512B
+>    Tabella delle partizioni: msdos
+>    Numero  Inizio      Fine           Dimensione     Tipo     File system  Flag
+>    1      1048576B    105906175B     104857600B     primary  ntfs         avvio
+>    2      105906176B  119999037439B  119893131264B  primary  ntfs
 
 
 6. Una volta capiti a che offset cominciavano le partizioni (offset=105906176), per visualizzare il file immagine .dd, ho dato da terminale:
 
 Codice:
-    sudo mount -o ro,loop,offset=105906176 -t ntfs immagine.dd /media/DiscRo/mount-dd
+>    sudo mount -o ro,loop,offset=105906176 -t ntfs immagine.dd /media/DiscRo/mount-dd
 
 E il tutto ha funzionato egregiamente.
 
