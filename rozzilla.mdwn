@@ -1,4 +1,5 @@
 ##Articoli contenententi spiegazioni, ricevute dal gruppo SLIMP, che mi sono state di aiuto.
 
 [Come montare un file immagine.dd](http://www.slimp.it/rozzilla/montare-file-immagine-dd)
+
 [Come recuperare e ripristinare il grub2](http://www.slimp.it/rozzilla/recuperare-grub2)
