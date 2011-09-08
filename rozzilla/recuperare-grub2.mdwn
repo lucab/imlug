@@ -1,4 +1,4 @@
-#h2 Recuperare il Grub2
+##h2 Recuperare il Grub2
 
 Premetto che ho un fisso, utilizzato da tutta la famiglia, con dual boot Ubuntu 11.04 e Windows 7 (che risiedono su 2 hard-disk differenti).
 Recentemente, da un giorno all'altro, ha avuto problemi all'avvio il boot-loader di windows (nel mio caso era il Burg, di norma è il Grub).
