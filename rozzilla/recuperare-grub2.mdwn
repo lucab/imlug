@@ -1,0 +1,87 @@
+#h2 Recuperare il Grub2
+
+Premetto che ho un fisso, utilizzato da tutta la famiglia, con dual boot Ubuntu 11.04 e Windows 7 (che risiedono su 2 hard-disk differenti).
+Recentemente, da un giorno all'altro, ha avuto problemi all'avvio il boot-loader di windows (nel mio caso era il Burg, di norma è il Grub).
+Inizialmente pensavo che il problema si riferisse esclusivamente a windows, visto che provando ad avviarlo con Super Grub Disk, apparivano messaggi di errore quali:
+BootMbr Mancante, Missing operating System, ecc.
+
+Pensando che il problema stesse nell'MBR (Master Boot Record) windowsiano, ho cercato con tool sia di windows che di linux di ripristinarlo, ma niente da fare.
+A questo punto, dopo aver salvato i dati su hard-disk ho provato a formattare tutto e reinstallare windows, collegando solo un hard disk. E tutto pareva funzionare.
+Quando ho ricollegato anche gli altri hard disk, però, dovevo reinstallare il Grub di Ubuntu (di norma si reinstalla da live).
+Inizialmente non partiva nulla.
+Con Super Grub Disk sono riuscito ad avviare Ubuntu.
+A questo punto, ho cercato di reinstallare il grub, seguendo [la guida del Wiki ufficiale di Ubuntu](http://wiki.ubuntu-it.org/AmministrazioneSistema/Grub/Ripristino) (che avevo già testato con altri computer e aveva sempre funzionato).
+Ma, ahimè, non sono riuscito a ripristinare il Grub.
+
+Allora, seguendo l'aiuto indispensabile di Kaeso, abbiamo dapprima analizzato la situazione degli hard disk e delle relative partizioni con il comando:
+> sudo fdisk -l
+
+Questa la condizione del mio pc:
+>Dispositivo Boot      Start         End      Blocks   Id  System
+>/dev/sda1   *           1        9963    80027766    7  HPFS/NTFS
+>
+>Disco /dev/sdc: 120.0 GB, 120000000000 byte
+>255 testine, 63 settori/tracce, 14589 cilindri
+>Unità = cilindri di 16065 * 512 = 8225280 byte
+>Sector size (logical/physical): 512 bytes / 512 bytes
+>I/O size (minimum/optimal): 512 bytes / 512 bytes
+>Identificativo disco: 0x0e736cea
+>
+>Dispositivo Boot      Start         End      Blocks   Id  System
+>/dev/sdc1               1          13      102400    7  HPFS/NTFS
+>La partizione 1 non termina al limite del cilindro.
+>/dev/sdc2   *          13       14589   117082112    7  HPFS/NTFS
+>La partizione 2 non termina al limite del cilindro.
+>
+>Disco /dev/sdd: 250.1 GB, 250059350016 byte
+>255 testine, 63 settori/tracce, 30401 cilindri
+>Unità = cilindri di 16065 * 512 = 8225280 byte
+>Sector size (logical/physical): 512 bytes / 512 bytes
+>I/O size (minimum/optimal): 512 bytes / 512 bytes
+>Identificativo disco: 0x000a99bb
+>
+>Dispositivo Boot      Start         End      Blocks   Id  System
+>/dev/sdd1   *           1       29637   238053376   83  Linux
+>/dev/sdd2           29637       30402     6142977    5  Esteso
+>/dev/sdd5           29637       30402     6142976   82  Linux swap / Solaris
+
+
+Abbiamo quindi controllato da terminale i pacchetti installati di grub, con il comando:
+> dpkg -l | grep grub
+
+In seguito rimosso i file di configurazione di grub-legacy con:
+> dpkg -P grub
+
+Quindi analizzato il componente di grub2 che si occupa di indivduare gli altri sistemi operativi presenti nella macchina:
+> sudo os-prober
+
+L'output di questo comando è stato:
+> ERROR: via: wrong # of devices in RAID set "via_bjicbfecch" [1/2] on /dev/sdc
+> ERROR: pdc: wrong # of devices in RAID set "pdc_fgffjbdg" [1/2] on /dev/sda
+> ERROR: removing inconsistent RAID set "pdc_fgffjbdg"
+
+Analizzando gli errori riportati dal terminale, kaeso ha capito che nel mio caso era necessario eliminare dmraid (che nel mio pc risultava installato).
+
+Da terminale abbiamo quindi analizzato i pacchetti installati di dmraid con:
+> dpkg -l | grep dmraid
+
+Il cui output è stato:
+> ii  dmraid                                1.0.0.rc16-4.1ubuntu3                      Device-Mapper Software RAID > support tool
+> ii  libdmraid1.0.0.rc16                   1.0.0.rc16-4.1ubuntu3                      Device-Mapper Software RAID > support tool - shared library
+
+Quindi, sempre seguendo i consigli di Kaeso, ho eliminato i due pacchetti relativi a dmraid con:
+> sudo apt-get remove --purge dmraid
+> sudo apt-get remove --purge libdmraid1.0.0.rc16
+
+Ridando il comando (sudo os-prober) da terminale, abbiamo capito che riconosceva windows, visto l'ouput:
+> /dev/sdc1:Windows 7 (loader):Windows:chain
+
+A questo punto ho reinstallato il grub con:
+> sudo grub-install /dev/sdd
+
+Quindi abbiamo aggiornato alla versione 2 del grub con:
+> update-grub2
+
+E il tutto è tornato alla normalità.
+
+Ringrazio vivamente Kaeso per l'aiuto e il tempo dedicato a risolvere questo problema...  ;)
