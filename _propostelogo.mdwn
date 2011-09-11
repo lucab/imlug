@@ -26,13 +26,12 @@ Le mie immagini (ugone)
 Kaeso ha partorito alcuni bozzetti, in cui l'idea di base è "mare e pinguini":
 
   - [Slimp olive feet][4], pinguini tra gli olivi
-  - [Slimp beach][3], pinguini al mare
+  - [Slimp beach][3], pinguini al mare (non ultimato)
   - [Slimp boat][5], una barca di software libero
   - [Slimp surf (blue)][6], pinguini tra le onde (gradazioni di blu)
   - [Slimp surf (orange)][7], pinguini tra le onde (gradazioni di arancione)
   - [Slimp surf (multi)][8], bozze multicolor dei due precedenti
 
-L'idea di base è "mare e pinguini".
 
   [1]: http://www.areaturbolenta.it/SLIM_Lug.svg
   [2]: https://sites.google.com/site/ugorosa/loghi-vari
