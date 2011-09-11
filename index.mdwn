@@ -20,6 +20,6 @@ Attualmente in corso:
 
 Passate:
 
-  - <strike>[[Proposte per nome del LUG | ProposteNome]]</strike>
+  - <strike>[[Proposte per nome del LUG |Propostenome]]</strike>
   - <strike>Organizzazione [[MARC di primavera 2011|marc/primavera-2011]]</strike>
 
