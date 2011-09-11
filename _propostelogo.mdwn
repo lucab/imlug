@@ -23,7 +23,14 @@ Le mie immagini (ugone)
 
 ----------
 
-Kaeso ha partorito alcuni bozzetti: il [primo][3] e il [secondo][4].
+Kaeso ha partorito alcuni bozzetti, in cui l'idea di base è "mare e pinguini":
+
+  - [Slimp olive foot][4], pinguini tra gli olivi
+  - [Slimp beach][3], pinguini al mare
+  - [Slimp boat][5], una barca di software libero
+  - [Slimp surf (blue)][6], pinguini tra le onde (gradazioni di blu)
+  - [Slimp surf (orange)][7], pinguini tra le onde (gradazioni di arancione)
+  - [Slimp surf (multi)][8], bozze multicolor dei due precedenti
 
 L'idea di base è "mare e pinguini".
 
@@ -31,3 +38,7 @@ L'idea di base è "mare e pinguini".
   [2]: https://sites.google.com/site/ugorosa/loghi-vari
   [3]: http://imgh.us/361_slim2.svg
   [4]: http://imgh.us/prosp2.svg
+  [5]: http://imgh.us/74_slimp-sailboat-blue.svg
+  [6]: http://imgh.us/slimp-surf-blue.svg
+  [7]: http://imgh.us/slimp-surf-orange.svg
+  [8]: http://imgh.us/476_slimp-surf-4c.svg
