@@ -6,19 +6,21 @@ Per il logo sono richieste le seguenti caratteristiche:
 Alcune caratteristiche interessanti potrebbero essere:
 
   - facilmente convertibile in un logo piccolo (32x32 tipo favicon)
-  - buon contrasto (accessibilità per ipovedenti)
+  - buon contrasto (accessibilità per ipovedenti e [daltonici][1])
+
+
 
 Nuove proposte saranno accettate indicativamente fino al 31/12/2010... 
 
 
-La mia (Gianny alias Kinu) è [questa][1].
+La mia (Gianny alias Kinu) è [questa][2].
 
 
 ----------
 
 
 Le mie immagini (ugone)
-[https://sites.google.com/site/ugorosa/loghi-vari][2]
+[https://sites.google.com/site/ugorosa/loghi-vari][3]
 
 
 ----------
@@ -26,18 +28,19 @@ Le mie immagini (ugone)
 Kaeso ha partorito alcuni bozzetti, in cui l'idea di base è "mare e pinguini":
 
   - [Slimp olive feet][4], pinguini tra gli olivi
-  - [Slimp beach][3], pinguini al mare (non ultimato)
-  - [Slimp boat][5], una barca di software libero
-  - [Slimp surf (blue)][6], pinguini tra le onde (gradazioni di blu)
-  - [Slimp surf (orange)][7], pinguini tra le onde (gradazioni di arancione)
-  - [Slimp surf (multi)][8], bozze multicolor dei due precedenti
+  - [Slimp beach][5], pinguini al mare (non ultimato)
+  - [Slimp boat][6], una barca di software libero
+  - [Slimp surf (blue)][7], pinguini tra le onde (gradazioni di blu)
+  - [Slimp surf (orange)][8], pinguini tra le onde (gradazioni di arancione)
+  - [Slimp surf (multi)][9], bozze multicolor dei due precedenti
 
 
-  [1]: http://www.areaturbolenta.it/SLIM_Lug.svg
-  [2]: https://sites.google.com/site/ugorosa/loghi-vari
-  [3]: http://imgh.us/361_slim2.svg
+  [1]: http://homepage.mac.com/lpetrich/ColorBlindnessSim/WebpageCBSim.xhtml
+  [2]: http://www.areaturbolenta.it/SLIM_Lug.svg
+  [3]: https://sites.google.com/site/ugorosa/loghi-vari
   [4]: http://imgh.us/prosp2.svg
-  [5]: http://imgh.us/74_slimp-sailboat-blue.svg
-  [6]: http://imgh.us/slimp-surf-blue.svg
-  [7]: http://imgh.us/slimp-surf-orange.svg
-  [8]: http://imgh.us/476_slimp-surf-4c.svg
+  [5]: http://imgh.us/361_slim2.svg
+  [6]: http://imgh.us/74_slimp-sailboat-blue.svg
+  [7]: http://imgh.us/slimp-surf-blue.svg
+  [8]: http://imgh.us/slimp-surf-orange.svg
+  [9]: http://imgh.us/476_slimp-surf-4c.svg
