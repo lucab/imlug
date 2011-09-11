@@ -8,7 +8,7 @@ Il gruppo SLIMP (**S**oftware **L**ibero **IM**peria e **P**rovincia) è formato
 Il gruppo non ha ancora una sede fissa di incontri, ma capita spesso di ritrovarsi tutti davanti ad una tavolata ben imbandita in giro per la provincia. Infine, ci ritroviamo in chat tutte le sere sul canale [#slimp di Freenode](http://webchat.freenode.net/?channels=slimp).
 
 Le discussioni e l'organizzione del gruppo avvengono attraverso la mailing list **Bazar**. 
-Per partecipare è sufficiente registrarsi su [[http://lists.slimp.it/listinfo/bazar]].
+Per partecipare è sufficiente registrarsi su .
 
 # Discussioni e progetti dello SLIMP
 
@@ -16,7 +16,7 @@ Attualmente in corso:
 
   - [[LinuxDay 2011 |linuxday/2011]]
   - Incontri mensili presso la [[Libreria dei Ragazzi|libragazzi]]
-  - Raccogliere tutte le [[proposte per il logo | ProposteLogo]] e scegliere quello definitivo
+  - Raccogliere tutte le [[proposte per il logo |Propostelogo]] e scegliere quello definitivo
 
 Passate:
 
