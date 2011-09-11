@@ -25,7 +25,7 @@ Le mie immagini (ugone)
 
 Kaeso ha partorito alcuni bozzetti, in cui l'idea di base è "mare e pinguini":
 
-  - [Slimp olive foot][4], pinguini tra gli olivi
+  - [Slimp olive feet][4], pinguini tra gli olivi
   - [Slimp beach][3], pinguini al mare
   - [Slimp boat][5], una barca di software libero
   - [Slimp surf (blue)][6], pinguini tra le onde (gradazioni di blu)
