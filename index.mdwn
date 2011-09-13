@@ -8,7 +8,7 @@ Il gruppo SLIMP (**S**oftware **L**ibero **IM**peria e **P**rovincia) è formato
 Il gruppo non ha ancora una sede fissa di incontri, ma capita spesso di ritrovarsi tutti davanti ad una tavolata ben imbandita in giro per la provincia. Infine, ci ritroviamo in chat tutte le sere sul canale [#slimp di Freenode](http://webchat.freenode.net/?channels=slimp).
 
 Le discussioni e l'organizzione del gruppo avvengono attraverso la mailing list **Bazar**. 
-Per partecipare è sufficiente registrarsi su .
+Per partecipare è sufficiente registrarsi su [http://lists.slimp.it/listinfo/bazar][1].
 
 # Discussioni e progetti dello SLIMP
 
@@ -23,3 +23,5 @@ Passate:
   - <strike>[[Proposte per nome del LUG |Propostenome]]</strike>
   - <strike>Organizzazione [[MARC di primavera 2011|marc/primavera-2011]]</strike>
 
+
+  [1]: http://lists.slimp.it/listinfo/bazar
