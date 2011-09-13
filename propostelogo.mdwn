@@ -1,3 +1,5 @@
+## Specifiche ##
+
 Per il logo sono richieste le seguenti caratteristiche:
 
   - Formato SVG
@@ -9,8 +11,8 @@ Alcune caratteristiche interessanti potrebbero essere:
   - buon contrasto (accessibilità per ipovedenti e [daltonici][1])
 
 
+## Idee, bozze e proposte ##
 
-Nuove proposte saranno accettate indicativamente fino al 31/12/2010... 
 
 
 La mia (Gianny alias Kinu) è [questa][2].
