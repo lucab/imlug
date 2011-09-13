@@ -13,28 +13,18 @@ Alcune caratteristiche interessanti potrebbero essere:
 
 ## Idee, bozze e proposte ##
 
+  - La mia (Gianny alias Kinu) è [questa][2].
 
+  - Le mie immagini (ugone)
+    [https://sites.google.com/site/ugorosa/loghi-vari][3]-
 
-La mia (Gianny alias Kinu) è [questa][2].
-
-
-----------
-
-
-Le mie immagini (ugone)
-[https://sites.google.com/site/ugorosa/loghi-vari][3]
-
-
-----------
-
-Kaeso ha partorito alcuni bozzetti, in cui l'idea di base è "mare e pinguini":
-
-  - [Slimp olive feet][4], pinguini tra gli olivi
-  - [Slimp beach][5], pinguini al mare (non ultimato)
-  - [Slimp boat][6], una barca di software libero
-  - [Slimp surf (blue)][7], pinguini tra le onde (gradazioni di blu)
-  - [Slimp surf (orange)][8], pinguini tra le onde (gradazioni di arancione)
-  - [Slimp surf (multi)][9], bozze multicolor dei due precedenti
+  - Kaeso ha partorito alcuni bozzetti, in cui l'idea di base è "mare e pinguini":
+    - [Slimp olive feet][4], pinguini tra gli olivi
+    - [Slimp beach][5], pinguini al mare (non ultimato)
+    - [Slimp boat][6], una barca di software libero
+    - [Slimp surf (blue)][7], pinguini tra le onde (gradazioni di blu)
+    - [Slimp surf (orange)][8], pinguini tra le onde (gradazioni di arancione)
+    - [Slimp surf (multi)][9], bozze multicolor dei due precedenti
 
 
   [1]: http://homepage.mac.com/lpetrich/ColorBlindnessSim/WebpageCBSim.xhtml
@@ -46,3 +36,4 @@ Kaeso ha partorito alcuni bozzetti, in cui l'idea di base è "mare e pinguini":
   [7]: http://imgh.us/slimp-surf-blue.svg
   [8]: http://imgh.us/slimp-surf-orange.svg
   [9]: http://imgh.us/476_slimp-surf-4c.svg
+-
