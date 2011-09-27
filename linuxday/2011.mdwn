@@ -20,9 +20,10 @@ L'utilita' di realizzare un sistema di condivisione internet basato sul WiFi
 attraverso sistemi di accesso con credenziali su sistema RADIUS e Captive 
 Portal quale alternativa a WPA e WEP.
 
-dalle ora 20 in poi talk titolo Inkscape  e la grafica vettoriale Marco B
+dalle ore 20 in poi talk titolo Inkscape  e la grafica vettoriale Marco B
  
 Sala a parte per provare direttamente il sistema Gnu linux, informazioni, e tutto quello che viene in mente e che riguarda GnuLinux          ugone
+
 ## Volontari ##
 
 Gianny,
