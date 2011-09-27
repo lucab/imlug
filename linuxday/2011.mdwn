@@ -1,17 +1,35 @@
-    Proposta di Linux Day, non ancora confermato
+    Proposta di Linux Day,
 
 ## Quando ##
 
-22 ottobre 2011 (sabato), dalle ore XX (pomeriggio).
+22 ottobre 2011 (sabato), dalle ore 16 (pomeriggio).
 
 ## Dove ##
 
-Imperia, presso la [[Libreria dei Ragazzi |libragazzi]]
+Imperia, presso la Libreria Ragazzi - Via Vieusseux, 14/1 (Primo Piano) - 18100 Imperia
 
 ## Cosa ##
 
-Da definire
-
+Ore 16 presentazione Giornata LinuxDay 2011 Marco Vallarino
+ore 16.30 Titolo talk:
+Uso piattaforma eXeLearning come supporto alla didattica delle Scuole  
+Medie/Superiori              Gianny
+ore 17.30 talk Gimp e le sue infinite possibilità             Peirone
+ore 18.15 talk Titolo: Wi-F@i da te
+L'utilita' di realizzare un sistema di condivisione internet basato sul WiFi 
+attraverso sistemi di accesso con credenziali su sistema RADIUS e Captive 
+Portal quale alternativa a WPA e WEP.
+ 
+Sala a parte per provare direttamente il sistema Gnu linux, informazioni, e tutto quello che viene in mente e che riguarda GnuLinux          ugone
 ## Volontari ##
 
-Da definire
+Gianny,
+Peirone,
+Marco B,
+Ugone
+e altri
+
+
+
+<a href="http://www.linuxday.it"><img src="http://www.linuxday.it/sites/default/files/banner2.png"
+border="0" alt="Linux Day" /></a>
