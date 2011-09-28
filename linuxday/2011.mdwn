@@ -1,8 +1,6 @@
-    Proposta di Linux Day,
-
 ## Quando ##
 
-22 ottobre 2011 (sabato), dalle ore 16 (pomeriggio).
+Sabato 22 ottobre 2011, dalle ore 16.
 
 ## Dove ##
 
@@ -11,16 +9,21 @@ Imperia, presso la Libreria Ragazzi - Via Vieusseux, 14/1 (Primo Piano) - 18100 
 ## Cosa ##
 
 Ore 16 presentazione Giornata LinuxDay 2011 Marco Vallarino
-ore 16.30 Titolo talk:
+
+ore 16.30
 Uso piattaforma eXeLearning come supporto alla didattica delle Scuole  
 Medie/Superiori              Gianny
-ore 17.30 talk Gimp e le sue infinite possibilità             Peirone
-ore 18.15 talk Titolo: Wi-F@i da te
+
+ore 17.30
+Gimp e le sue infinite possibilità             Peirone
+
+ore 18.15 
+Wi-F@i da te
 L'utilita' di realizzare un sistema di condivisione internet basato sul WiFi 
 attraverso sistemi di accesso con credenziali su sistema RADIUS e Captive 
 Portal quale alternativa a WPA e WEP.
 
-dalle ore 20 in poi talk titolo Tutti tipografi con Inkscape!
+dalle ore 20 in poi Tutti tipografi con Inkscape!
 Come realizzare in proprio manifesti, 
 locandine ed altro materiale destinato alla stampa con il software 
 multipiattaforma Inkscape
