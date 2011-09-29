@@ -59,7 +59,7 @@ eXeLearning come piattaforma di supporto alla didattica per Scuole
 Medie/Superiori
 </td>
 <td>
-TODO: Descrizione eXeLearning
+Dimostrazione dell'utilizzo del software eXeLearning utile per la realizzazione di siti di supporto alla didattica con dimostrazione di un caso pratico su server LAMP locale
 </td>
 <td>
 Gianny
