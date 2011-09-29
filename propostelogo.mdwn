@@ -13,6 +13,8 @@ Alcune caratteristiche interessanti potrebbero essere:
 
 ## Idee, bozze e proposte ##
 
+  - Semidefinitiva: [Slimp surf (azur)][10], pinguini tra le onde (gradazioni di celeste)
+
   - La mia (Gianny alias Kinu) è [questa][2].
 
   - Le mie immagini (ugone)
@@ -36,4 +38,5 @@ Alcune caratteristiche interessanti potrebbero essere:
   [7]: http://imgh.us/slimp-surf-blue.svg
   [8]: http://imgh.us/slimp-surf-orange.svg
   [9]: http://imgh.us/476_slimp-surf-4c.svg
+  [10]: http://imgh.us/slimp-surf-azur.svg
 
