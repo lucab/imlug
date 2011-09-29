@@ -1,3 +1,6 @@
+<a href="http://www.linuxday.it"><img src="http://www.linuxday.it/sites/default/files/banner2.png"
+border="0" alt="Linux Day" /></a>
+
 ## Quando ##
 
 Sabato 22 ottobre 2011, dalle ore 16.
@@ -8,39 +11,120 @@ Imperia, presso la Libreria Ragazzi - Via Vieusseux, 14/1 (Primo Piano) - 18100 
 
 ## Cosa ##
 
-Ore 16 presentazione Giornata LinuxDay 2011 Marco Vallarino
+<table>
+<tr>
+<th>
+Orario
+</th>
 
-ore 16.30
-Uso piattaforma eXeLearning come supporto alla didattica delle Scuole  
-Medie/Superiori              Gianny
+<th>
+Presentazione
+</th>
 
-ore 17.30
-Gimp e le sue infinite possibilità             Peirone
+<th>
+Contenuto
+</th>
 
-ore 18.15 
+<th>
+Relatore
+</th>
+
+
+</tr>
+
+<tr>
+<td>
+16:00 - 16:25
+</td>
+<td>
+Apertura LinuxDay 2011 
+</td>
+<td>
+Presentazione del LinuxDay, introduzione al gruppo Slimp e alle attività correnti
+</td>
+<td>
+Marco Vallarino
+</td>
+</tr>
+
+
+<tr>
+<td>
+16:30 - 17:25
+</td>
+<td>
+eXeLearning come piattaforma di supporto alla didattica per Scuole  
+Medie/Superiori
+</td>
+<td>
+TODO: Descrizione eXeLearning
+</td>
+<td>
+Gianny
+</td>
+
+</tr>
+
+<tr>
+<td>
+17:30 - 18:10
+</td>
+<td>
+Gimp e le sue infinite possibilità
+</td>
+
+<td>
+TODO: Descrizione Gimp
+</td>
+
+<td>
+Peirone
+</td>
+</tr>
+
+<tr>
+<td>
+18:15 - 19:55
+</td>
+<td>
 Wi-F@i da te
-L'utilita' di realizzare un sistema di condivisione internet basato sul WiFi 
+</td>
+<td>
+L'utilità di realizzare un sistema di condivisione internet basato sul WiFi 
 attraverso sistemi di accesso con credenziali su sistema RADIUS e Captive 
 Portal quale alternativa a WPA e WEP.
+</td>
+<td>
+???
+</td>
 
-dalle ore 20 in poi Tutti tipografi con Inkscape!
+</tr>
+
+<tr>
+<td>
+20:00 - 21:00 
+</td>
+<td>
+Tutti tipografi con Inkscape!
+</td>
+<td>
 Come realizzare in proprio manifesti, 
 locandine ed altro materiale destinato alla stampa con il software 
 multipiattaforma Inkscape
+</td>
+<td>
 Marco B
- 
+</td>
+</tr> 
+</table>
 **Dalle ore 14.30 in poi e fino ad ore 23** Sala a parte per provare direttamente il sistema Gnu linux, informazioni, e tutto quello che viene in mente e che riguarda GnuLinux          ugone Simone P
 
 ## Volontari ##
 
-Gianny,
-Peirone,
-Marco B,
-Ugone,
-Simone P
-e altri
+  - Gianny
+  - Peirone
+  - Marco B
+  - Ugone
+  - Simone P
+  - Tu? 
 
-
-
-<a href="http://www.linuxday.it"><img src="http://www.linuxday.it/sites/default/files/banner2.png"
-border="0" alt="Linux Day" /></a>
