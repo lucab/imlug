@@ -7,9 +7,9 @@ Sabato 22 ottobre 2011, dalle ore 16.
 
 ## Dove ##
 
-Ad Imperia (Oneglia), presso la Libreria Ragazzi.
+Ad Imperia (Oneglia), presso la [Libreria Ragazzi][1].
 
-  - [Via Vieusseux, 14/1 (Primo Piano) - 18100 Imperia][1]
+  - [Via Vieusseux, 14/1 (Primo Piano) - 18100 Imperia][2]
 
 ## Cosa ##
 
@@ -132,4 +132,5 @@ MarcoB
   - Tu? 
 
 
-  [1]: http://maps.cloudmade.com/?lat=43.889279&lng=8.041177&zoom=17&directions=43.88978594011755,8.04075837135315&travel=car&styleId=1&opened_tab=0
+  [1]: http://www.libreriaragazzi.com
+  [2]: http://maps.cloudmade.com/?lat=43.889279&lng=8.041177&zoom=17&directions=43.88978594011755,8.04075837135315&travel=car&styleId=1&opened_tab=0
