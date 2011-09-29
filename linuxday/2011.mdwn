@@ -7,7 +7,9 @@ Sabato 22 ottobre 2011, dalle ore 16.
 
 ## Dove ##
 
-Imperia, presso la Libreria Ragazzi - Via Vieusseux, 14/1 (Primo Piano) - 18100 Imperia
+Ad Imperia (Oneglia), presso la Libreria Ragazzi.
+
+  - [Via Vieusseux, 14/1 (Primo Piano) - 18100 Imperia][1]
 
 ## Cosa ##
 
@@ -113,18 +115,21 @@ locandine ed altro materiale destinato alla stampa con il software
 multipiattaforma Inkscape
 </td>
 <td>
-Marco B
+MarcoB
 </td>
 </tr> 
 </table>
-**Dalle ore 14.30 in poi e fino ad ore 23** Sala a parte per provare direttamente il sistema Gnu linux, informazioni, e tutto quello che viene in mente e che riguarda GnuLinux          ugone Simone P
+
+**Dalle ore 14.30 in poi e fino ad ore 23** - Sala a parte per provare direttamente il sistema Gnu linux, informazioni, e tutto quello che viene in mente e che riguarda GnuLinux  (supervisione di ugone e SimoneP)
 
 ## Volontari ##
 
   - Gianny
   - Peirone
-  - Marco B
+  - MarcoB
   - Ugone
-  - Simone P
+  - SimoneP
   - Tu? 
 
+
+  [1]: http://maps.cloudmade.com/?lat=43.889279&lng=8.041177&zoom=17&directions=43.88978594011755,8.04075837135315&travel=car&styleId=1&opened_tab=0
