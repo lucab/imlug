@@ -1,0 +1,1 @@
+[[!map pages="logo/svg/* and ! logo/svg/*/*"]]
