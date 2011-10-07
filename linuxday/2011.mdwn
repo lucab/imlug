@@ -76,7 +76,7 @@ Gimp e le sue infinite possibilità
 </td>
 
 <td>
-TODO: Descrizione Gimp
+Effetti grafici avanzati e fotoritocco con software libero; presentazione e dimostrazione di Gimp.
 </td>
 
 <td>
@@ -120,7 +120,7 @@ MarcoB
 </tr> 
 </table>
 
-**Dalle ore 14.30 in poi e fino ad ore 23** - Sala a parte per provare direttamente il sistema Gnu linux, informazioni, e tutto quello che viene in mente e che riguarda GnuLinux  (supervisione di ugone e SimoneP)
+**Dalle ore 14.30 in poi e fino ad ore 23** - Sala a parte per provare direttamente il sistema GNU/linux, informazioni, e tutto quello che viene in mente e che riguarda GNU/Linux  (supervisione di ugone e SimoneP)
 
 ## Volontari ##
 
