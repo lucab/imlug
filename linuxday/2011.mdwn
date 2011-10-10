@@ -62,7 +62,7 @@ Medie/Superiori
 Dimostrazione dell'utilizzo del software eXeLearning utile per la realizzazione di siti di supporto alla didattica con dimostrazione di un caso pratico su server LAMP locale
 </td>
 <td>
-Gianny
+Ing. Giovanni Zoccali
 </td>
 
 </tr>
@@ -97,7 +97,7 @@ attraverso sistemi di accesso con credenziali su sistema RADIUS e Captive
 Portal quale alternativa a WPA e WEP.
 </td>
 <td>
-Gianny
+Ing. Giovanni Zoccali
 </td>
 
 </tr>
