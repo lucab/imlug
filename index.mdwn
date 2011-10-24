@@ -24,7 +24,7 @@ Attualmente in corso:
 
 Passate:
 
-  - [[LinuxDay 2011 |linuxday/2011]]
+  - <strike>[[LinuxDay 2011 |linuxday/2011]]</strike>
   - <strike>[[Proposte per nome del LUG |Propostenome]]</strike>
   - <strike>Organizzazione [[MARC di primavera 2011|marc/primavera-2011]]</strike>
   - <strike>Raccogliere tutte le [[proposte per il logo |Propostelogo]] e scegliere quello definitivo</strike>
