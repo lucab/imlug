@@ -13,12 +13,15 @@ Per partecipare è sufficiente registrarsi su [http://lists.slimp.it/listinfo/ba
 # Discussioni e progetti dello SLIMP
 
 Attualmente in corso:
-
-  - [[LinuxDay 2011 |linuxday/2011]]
+  
   - Incontri mensili presso la [[Libreria dei Ragazzi|libragazzi]]
+  prossime date
+   25 novembre
+   16 dicembre
 
 Passate:
 
+  - [[LinuxDay 2011 |linuxday/2011]]
   - <strike>[[Proposte per nome del LUG |Propostenome]]</strike>
   - <strike>Organizzazione [[MARC di primavera 2011|marc/primavera-2011]]</strike>
   - <strike>Raccogliere tutte le [[proposte per il logo |Propostelogo]] e scegliere quello definitivo</strike>
