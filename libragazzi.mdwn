@@ -3,8 +3,8 @@ Per indicazioni su come arrivare, consulta la [mappa][1].
 
 Prossimo appuntamento:
 
- - [[Arduino ed elettronica con Linux (25/11)|libragazzi/25nov2011]] 
- - [[Comunicare con Linux: chat, email, messaggistica (16/12)|libragazzi/16dic2011]] 
+ - [[Comunicare con Linux: chat, email, messaggistica (25/11)|libragazzi/25nov2011]] 
+ - [[Da definire (16/12)|libragazzi/16dic2011]] 
 
 Appuntamenti passati:
 
