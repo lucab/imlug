@@ -3,11 +3,12 @@ Per indicazioni su come arrivare, consulta la [mappa][1].
 
 Prossimo appuntamento:
 
- - [[Comunicare con Linux: chat, email, messaggistica (25/11)|libragazzi/25nov2011]] 
  - [[Da definire (16/12)|libragazzi/16dic2011]] 
 
 Appuntamenti passati:
 
+
+ - [[Comunicare con Linux: chat, email, messaggistica (25/11)|libragazzi/25nov2011]] 
   - Extra: [[LinuxDay 2011 (22/10)|linuxday/2011]]
   - [[Sorgenti e compilazione (23/09)|libragazzi/23set2011]]
   - [[Domande e Risposte su Linux (29/04)|libragazzi/29apr2011]]
