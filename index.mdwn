@@ -10,7 +10,7 @@ Il gruppo non ha ancora una sede fissa di incontri, ma capita spesso di ritrovar
 Le discussioni e l'organizzione del gruppo avvengono attraverso la mailing list **Bazar**. 
 Per partecipare è sufficiente registrarsi su [http://lists.slimp.it/listinfo/bazar][1].
 
-Potete anche seguirci su **Twitter**  http://twitter.com/#!/infoslimp  e su  **identi.ca**  http://identi.ca/slimp
+Potete anche seguirci su [**Identi.ca**][iden] e su [**Twitter**][tw].  
 
 # Discussioni e progetti dello SLIMP
 
@@ -29,3 +29,5 @@ Passate:
 
 
   [1]: http://lists.slimp.it/listinfo/bazar
+  [iden]: http://identi.ca/slimp
+  [tw]: http://twitter.com/#!/infoslimp
