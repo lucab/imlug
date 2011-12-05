@@ -5,7 +5,7 @@
 A Imperia e provincia è da poco attivo un gruppo di utenti GNU/Linux (e non solo) a supporto del Software Libero.
 Il gruppo SLIMP (**S**oftware **L**ibero **IM**peria e **P**rovincia) è formato da utenti che apprezzano la libertà e la funzionalità del sistema GNU/LINUX, e funziona da centro di scambio di esperienze e conoscenze.
 
-Il gruppo non ha ancora una sede fissa di incontri, ma capita spesso di ritrovarsi tutti davanti ad una tavolata ben imbandita in giro per la provincia. Infine, ci ritroviamo in chat tutte le sere sul canale [#slimp di Freenode](http://webchat.freenode.net/?channels=slimp (il link porta direttamente alla webchat).
+Il gruppo non ha ancora una sede fissa di incontri, ma capita spesso di ritrovarsi tutti davanti ad una tavolata ben imbandita in giro per la provincia. Infine, ci ritroviamo in chat tutte le sere sul canale [#slimp di Freenode](http://webchat.freenode.net/?channels=slimp) (il link porta direttamente alla webchat).
 
 Le discussioni e l'organizzione del gruppo avvengono attraverso la mailing list **Bazar**. 
 Per partecipare è sufficiente registrarsi su [http://lists.slimp.it/listinfo/bazar][1].
@@ -16,6 +16,7 @@ Potete anche seguirci su [**Identi.ca**][iden] e su [**Twitter**][tw].
 
 Attualmente in corso:
   
+  - [MARC di Dicembre](http://www.vecchiomago.net/index.php?mod=read&id=1322421548)
   - Incontri mensili presso la [[Libreria dei Ragazzi|libragazzi]]
 
     Fine 2011, prossima data: **16 dicembre**
