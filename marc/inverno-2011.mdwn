@@ -1,4 +1,7 @@
-![Locandina][1]
+<div align="center">
+<a href="http://www.vecchiomago.net/2011/dove.jpg">
+<img src="http://www.vecchiomago.net/2011/dove.jpg" width="500" />
+</a>
+</div>
 
 
-  [1]: http://www.vecchiomago.net/2011/dove.jpg
