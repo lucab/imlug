@@ -19,7 +19,7 @@ Attualmente in corso:
   - [MARC di Dicembre](http://www.vecchiomago.net/index.php?mod=read&id=1322421548)
   - Incontri mensili presso la [[Libreria dei Ragazzi|libragazzi]]
 
-    Fine 2011, prossima data: **16 dicembre**. Titolo della serata: **!["Il mondo GNU/Linux e i suoi vantaggi"][2]**.
+    Fine 2011, prossima data: **16 dicembre**. Titolo della serata: !["Il mondo GNU/Linux e i suoi vantaggi"][2].
 
 Passate:
 
