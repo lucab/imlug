@@ -29,8 +29,12 @@ Passate:
   - <strike>Raccogliere tutte le [[proposte per il logo |Propostelogo]] e scegliere quello definitivo</strike>
 
 
+![Altri articoli utili][2]
+
+
   [iden]: http://identi.ca/slimp
   [tw]: http://twitter.com/#!/infoslimp
 
 
   [1]: http://lists.slimp.it/listinfo/bazar
+  [2]: http://slimp.it/rozzilla
