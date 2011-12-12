@@ -19,7 +19,7 @@ Attualmente in corso:
   - [MARC di Dicembre](http://www.vecchiomago.net/index.php?mod=read&id=1322421548)
   - Incontri mensili presso la [[Libreria dei Ragazzi|libragazzi]]
 
-    Fine 2011, prossima data: **16 dicembre**. Titolo della serata: **"Il mondo GNU/Linux e i suoi vantaggi"**.
+    Fine 2011, prossima data: **16 dicembre**. Titolo della serata: **!["Il mondo GNU/Linux e i suoi vantaggi"][2]**.
 
 Passate:
 
@@ -29,6 +29,9 @@ Passate:
   - <strike>Raccogliere tutte le [[proposte per il logo |Propostelogo]] e scegliere quello definitivo</strike>
 
 
-  [1]: http://lists.slimp.it/listinfo/bazar
   [iden]: http://identi.ca/slimp
   [tw]: http://twitter.com/#!/infoslimp
+
+
+  [1]: http://lists.slimp.it/listinfo/bazar
+  [2]: http://www.slimp.it/libragazzi/16dic2011/
