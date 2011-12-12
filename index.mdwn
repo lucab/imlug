@@ -16,10 +16,10 @@ Potete anche seguirci su [**Identi.ca**][iden] e su [**Twitter**][tw].
 
 Attualmente in corso:
   
-  - [[MARC di Dicembre|marc]] - 17/18 dicembre, Fiera di Genova 
+  - [[MARC di Dicembre|marc/inverno-2011]] - 17/18 dicembre, Fiera di Genova 
   - Incontri mensili presso la [[Libreria dei Ragazzi|libragazzi]]
 
-    Fine 2011, prossima data: **16 dicembre**. Titolo e riassunto della serata: [[I vantaggi di GNU/Linux e il mondo del Software Libero |libragazzi/16dic2011]].
+    **Venerdì 16 dicembre**: [[I vantaggi di GNU/Linux e il mondo del Software Libero |libragazzi/16dic2011]].
 
 Passate:
 
@@ -29,9 +29,9 @@ Passate:
   - <strike>Raccogliere tutte le [[proposte per il logo |Propostelogo]] e scegliere quello definitivo</strike>
 
 
+Altre risorse:
 
-
-[[Altri articoli utili |rozzilla]]
+  - [[Articoli utili |rozzilla]]
 
 
   [iden]: http://identi.ca/slimp
