@@ -29,7 +29,8 @@ Passate:
   - <strike>Raccogliere tutte le [[proposte per il logo |Propostelogo]] e scegliere quello definitivo</strike>
 
 
- [[Altri articoli utili |rozzilla]]
+
+[[Altri articoli utili |rozzilla]]
 
 
   [iden]: http://identi.ca/slimp
