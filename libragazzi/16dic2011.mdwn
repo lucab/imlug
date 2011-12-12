@@ -8,5 +8,5 @@ Verranno analizzate inoltre alcune funzionalità di programmi **LIBERI**, come s
 
 Vi aspettiamo numerosi  :)
 
-  [1]: http://maps.cloudmade.com/?lat=43.889279&lng=8.041177&zoom=17&directions=43.88978594011755,8.04075837135315&travel=car&styleId=1&opened_tab=0
+  [1]: http://www.infinite-loop.it/wp-content/uploads/2011/06/gnulinux.png
   [2]: http://statik.nanopress.it/625X0/www/tecnocino/it/img/software-libero-gnu-linux.jpg
