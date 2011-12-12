@@ -2,4 +2,5 @@ Il MARC è la fiera radiantistica che si tiene due volte all'anno a Genova.
 
 Edizioni:
 
-  - Primavera 2011
+  - [[Inverno 2011|marc/primavera-2011]]
+  - [[Primavera 2011|marc/primavera-2011]]
