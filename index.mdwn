@@ -16,7 +16,7 @@ Potete anche seguirci su [**Identi.ca**][iden] e su [**Twitter**][tw].
 
 Attualmente in corso:
   
-  - [MARC di Dicembre](http://www.vecchiomago.net/index.php?mod=read&id=1322421548) - 17/18 dicembre, Fiera di Genova [http://fwd4.me/0iKL][2]
+  - [[MARC di Dicembre|marc]] - 17/18 dicembre, Fiera di Genova 
   - Incontri mensili presso la [[Libreria dei Ragazzi|libragazzi]]
 
     Fine 2011, prossima data: **16 dicembre**. Titolo e riassunto della serata: [[I vantaggi di GNU/Linux e il mondo del Software Libero |libragazzi/16dic2011]].
@@ -39,4 +39,3 @@ Passate:
 
 
   [1]: http://lists.slimp.it/listinfo/bazar
-  [2]: http://fwd4.me/0iKL
