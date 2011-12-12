@@ -34,4 +34,4 @@ Passate:
 
 
   [1]: http://lists.slimp.it/listinfo/bazar
-  [2]: http://www.slimp.it/libragazzi/16dic2011/
+  [2]: http://www.slimp.it/libragazzi/16dic2011
