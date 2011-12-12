@@ -1,0 +1,12 @@
+Il 16 Dicembre 2011 alle ore 21.00 presso la [Libreria Ragazzi di Imperia][1], sarà tenuta una serata dal titolo: **"I vantaggi di GNU/Linux e il mondo del Software Libero"**.
+
+![alt text][2]
+
+Nel corso della serata verranno trattati i principali motivi che stanno spingendo sempre più utenti a passare dai sistemi operativi proprietari (come Windows O Macintosh) al mondo del software libero, tra cui ovviamente il sistema operativo GNU/Linux. 
+
+Verranno analizzate inoltre alcune funzionalità di programmi **LIBERI**, come suite di programmi per ufficio, programmi per la gestione della posta elettronica, editor per realizzare siti web, ecc. (chiarendo la differenza tra software LIBERO e software GRATUITO).
+
+Vi aspettiamo numerosi  :)
+
+  [1]: http://maps.cloudmade.com/?lat=43.889279&lng=8.041177&zoom=17&directions=43.88978594011755,8.04075837135315&travel=car&styleId=1&opened_tab=0
+  [2]: http://statik.nanopress.it/625X0/www/tecnocino/it/img/software-libero-gnu-linux.jpg
