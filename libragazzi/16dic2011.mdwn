@@ -4,7 +4,7 @@ Il 16 Dicembre 2011 alle ore 21.00 presso la [Libreria Ragazzi di Imperia][1], s
 
 Nel corso della serata verranno trattati i principali motivi che stanno spingendo sempre più utenti a passare dai sistemi operativi proprietari (come Windows O Macintosh) al mondo del software libero, tra cui ovviamente il sistema operativo GNU/Linux. 
 
-Verranno analizzate inoltre alcune funzionalità di programmi **LIBERI**, come suite di programmi per ufficio, programmi per la gestione della posta elettronica, editor per realizzare siti web, ecc. (chiarendo la differenza tra software LIBERO e software GRATUITO).
+Verranno analizzate inoltre alcune funzionalità di programmi **LIBERI**, come suite per ufficio, programmi per la gestione della posta elettronica, editor per realizzare siti web, ecc. (chiarendo la differenza tra software LIBERO e software GRATUITO).
 
 Vi aspettiamo numerosi  :)
 
