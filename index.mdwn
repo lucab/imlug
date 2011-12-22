@@ -15,15 +15,14 @@ Potete anche seguirci su [**Identi.ca**][iden] e su [**Twitter**][tw].
 # Discussioni e progetti dello SLIMP
 
 Attualmente in corso:
-- Incontri mensili presso la [[Libreria dei Ragazzi|libragazzi]]
 
-    **Venerdì 20 gennaio**: [[La LIM ed alcuni programmi per le classi elementari |libragazzi/20gen2012 ]].  
+  - Incontri mensili presso la [[Libreria dei Ragazzi|libragazzi]]
+
+  **Venerdì 20 gennaio**: [[La LIM ed alcuni programmi per le classi elementari|libragazzi/20gen2012]].  
   
 Passate:
 
-  - <strike>[[MARC di Dicembre|marc/inverno-2011]] - 17/18 dicembre, Fiera di Genova <strike>
-  
-
+  - <strike>[[MARC di Dicembre|marc/inverno-2011]] - 17/18 dicembre, Fiera di Genova</strike>
   - <strike>[[LinuxDay 2011 |linuxday/2011]]</strike>
   - <strike>[[Proposte per nome del LUG |Propostenome]]</strike>
   - <strike>Organizzazione [[MARC di primavera 2011|marc/primavera-2011]]</strike>
@@ -32,7 +31,7 @@ Passate:
 
 Altre risorse:
 
-  **- [[Articoli utili |rozzilla]]**
+  - [[Articoli utili |rozzilla]]
 
 
   [iden]: http://identi.ca/slimp
