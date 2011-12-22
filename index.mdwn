@@ -17,7 +17,7 @@ Potete anche seguirci su [**Identi.ca**][iden] e su [**Twitter**][tw].
 Attualmente in corso:
 - Incontri mensili presso la [[Libreria dei Ragazzi|libragazzi]]
 
-    **Venerdì 20 gennaio**: [[La LIM ed alcuni programmi per le classi elementari |libragazzi/20gen2012]].  
+    **Venerdì 20 gennaio**: [[La LIM ed alcuni programmi per le classi elementari |libragazzi/20gen2012 ]].  
   
 Passate:
 
@@ -32,7 +32,7 @@ Passate:
 
 Altre risorse:
 
-  - [[Articoli utili |rozzilla]]
+  **- [[Articoli utili |rozzilla]]**
 
 
   [iden]: http://identi.ca/slimp
