@@ -3,5 +3,7 @@
 <li class="top">Sezioni</li>
 <li>[[Home|index]]</li>
 <li>[[Incontri|libragazzi]]</a></li>
+<li>[[Sala Stampa|stampa]]</a></li>
+<li>[[Chi Siamo|utenti]]</a></li>
 </ul>
 </div>
