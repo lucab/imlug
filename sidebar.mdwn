@@ -1,0 +1,7 @@
+<div id="left">
+<ul class="navi">
+<li class="top">Menu Navigation</li>
+<li><a href="#">Home</a></li>
+<li><a href="#">Site / category</a></li>
+</ul>
+</div>
