@@ -167,7 +167,7 @@ ul.navi a{
 	clear: both;
 	width: 1046px;
 	height: 21px;
-	background-image: url("images/footer.jpg");
+	#background-image: url("images/footer.jpg");
 	margin: 0 auto;
 	text-align: center;
 	color: white;
@@ -184,9 +184,8 @@ ul.navi a{
 	margin-left: -53px;
 }
 
-.pagedate, .pagelicense, .pagecopyright {
+.pagedate, .pagelicense, .pagecopyright, #backlinks {
     margin-top: 0;
-    margin-bottom: 8px;
 }
 
 .actions{
@@ -240,8 +239,11 @@ div.post h2{
 
 
 #pageinfo {
+    background-image: url("images/footer.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
     border-top: 0px none;
-    margin: 0px auto;
+    margin: 0 -2px 0 0;
 }
 
 
