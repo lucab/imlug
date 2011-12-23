@@ -1,7 +1,7 @@
 <div id="left">
 <ul class="navi">
 <li class="top">Sezioni</li>
-<li><a href=".">Home</a></li>
-<li><a href="#">Incontri</a></li>
+<li><a href="http://www.slimp.it">Home</a></li>
+<li><a href="libragazzi">Incontri</a></li>
 </ul>
 </div>
