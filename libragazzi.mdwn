@@ -3,11 +3,11 @@ Per indicazioni su come arrivare, consulta la [mappa][1].
 
 Prossimo appuntamento:
 
- - [[I vantaggi di GNU/Linux e il mondo del Software Libero (16/12)|libragazzi/16dic2011]]
+ - [[La LIM ed alcuni programmi per la didattica nelle classi elementari (20/01)|libragazzi/20gen2012]]
 
 Appuntamenti passati:
 
-
+ - [[I vantaggi di GNU/Linux e il mondo del Software Libero (16/12)|libragazzi/16dic2011]]
  - [[Comunicare con Linux: chat, email, messaggistica (25/11)|libragazzi/25nov2011]] 
  - Extra: [[LinuxDay 2011 (22/10)|linuxday/2011]]
  - [[Sorgenti e compilazione (23/09)|libragazzi/23set2011]]
