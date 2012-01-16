@@ -16,4 +16,4 @@ Appuntamenti passati:
  - [[Incontro introduttivo (18/02)|libragazzi/18feb2011]]
 
 
-  [1]: http://maps.cloudmade.com/?lat=43.889279&lng=8.041177&zoom=17&directions=43.88978594011755,8.04075837135315&travel=car&styleId=1&opened_tab=0
+  [1]: http://bit.ly/wI6zlw
