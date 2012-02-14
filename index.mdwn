@@ -18,7 +18,7 @@ Attualmente in corso:
 
   - Incontri mensili presso la [[Libreria dei Ragazzi|libragazzi]]
 
-  **Venerdì 20 gennaio**: [[La LIM ed alcuni programmi per le classi elementari|libragazzi/20gen2012]].  
+  **Venerdì 24 febbraio**: [[Semplici script bash e serata per risolvere eventuali problemi del pc|libragazzi/24feb2012]].  
   
 Passate:
 
