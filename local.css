@@ -40,7 +40,15 @@ body {
 	color: white;
 #	position: absolute;
 #	top: 60px;
-	margin-left: 10px;
+	margin-left: 20px;
+}
+
+.title{
+	color: white;
+}
+
+.parentlinks{
+	color: white;
 }
 
 .sidebar{
@@ -58,7 +66,6 @@ body {
 div.navi{
 	background-color: #d7d9d9;
 	width: 211px;
-
 	color: #074c70;
 	line-height: 1.6em;
 }
@@ -70,16 +77,33 @@ ul.navi{
 .navi li{
 	background-image: url("images/navi_normal.jpg");
 	height: 34px;
-	padding-left: 14px;
+	padding-left: 27px;
 	line-height: 34px;
-	width: 198px;
+	width: 185px;
 }
 
-.navi li.top{
+.navi li a{
+	color: #074c70;
+}
+.navi li:hover a{
+		color: white;
+		text-decoration:underline;
+}
+
+.navi li:hover{
 	background-image: url("images/navi_active.jpg");
+	color:white;
+}
+
+
+
+.navi li.top{
+	background: url("images/navi_active.jpg") repeat-x;
 	font-size: 1.0em;
 	font-weight: bold;
 	color: white;
+	padding-left:8px;
+	width:204px;
 }
 
 ul.navi a{
@@ -101,7 +125,7 @@ ul.navi a{
 
 
 #content{
-        margin-left: 222px;
+    margin-left: 222px;
 	width: 815px;
 	padding-bottom: 15px;
 	margin-bottom: -13px;
@@ -219,7 +243,7 @@ ul.navi a{
     background: #cbe0f5;
 }
 
-a{
+#pagebody a {
 	color: #074c70;
 }
 
