@@ -23,6 +23,16 @@ body {
 	margin-bottom: 10px;
 }
 
+.header:before{
+	content:url("logo/png/slimp-azur_logo_mini.png");
+	height: 84px;
+	width:75px;
+	float:left;
+	margin-right:10px;
+	position:relative;
+	top:-25px;
+}
+
 .header{
 	margin: 0;
 	padding-top: 40px;
