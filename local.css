@@ -50,7 +50,9 @@ body {
 .parentlinks{
 	color: white;
 }
-
+.parentlinks a:visited{
+	color: white;
+}
 .sidebar{
 	float: left;
 	width: 211px;
