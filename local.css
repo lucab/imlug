@@ -22,7 +22,11 @@ body {
 	margin: 0 auto;
 	margin-bottom: 10px;
 }
+.header:before{
+	background-image: url("logo/png/slimp-azur_normal.png");
+}
 
+}
 .header{
 	margin: 0;
 	padding-top: 40px;
@@ -79,6 +83,7 @@ ul.navi a{
 #pagebody{
 	background-image: url("images/content_background.jpg");
 	width: 1046px;
+	min-height:200px;
 	margin: 0 auto;
 }
 
