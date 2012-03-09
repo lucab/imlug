@@ -43,13 +43,20 @@ body {
 	margin-left: 20px;
 }
 
-.title{
-	color: white;
+.title {
+    color: white;
+    position: relative;
+    top: 25px;
+}
+.parentlinks {
+    color: white;
+    font-size: 0.5em;
+    height: 1px;
+    max-width: 600px;
+    position: relative;
+    top: -30px;
 }
 
-.parentlinks{
-	color: white;
-}
 .parentlinks a:visited{
 	color: white;
 }
