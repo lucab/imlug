@@ -35,17 +35,17 @@
 <TMPL_IF HTML5><section class="pageheader"><TMPL_ELSE><div class="pageheader"></TMPL_IF>
 <TMPL_IF HTML5><header class="header"><TMPL_ELSE><div class="header"></TMPL_IF>
 <span>
-<span class="parentlinks">
+<div class="parentlinks">
 <TMPL_LOOP PARENTLINKS>
 <a href="<TMPL_VAR URL>"><TMPL_VAR PAGE></a>/ 
 </TMPL_LOOP>
-</span>
-<span class="title">
+</div>
+<div class="title">
 <TMPL_VAR TITLE>
 <TMPL_IF ISTRANSLATION>
 &nbsp;(<TMPL_VAR PERCENTTRANSLATED>%)
 </TMPL_IF>
-</span>
+</div>
 </span>
 <TMPL_IF SEARCHFORM>
 <TMPL_VAR SEARCHFORM>
