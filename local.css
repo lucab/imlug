@@ -7,7 +7,6 @@ body {
 	background-color: #D8DAD9;
 }
 
-
 .page{
 	width: 1152px;
 	margin:0 auto;
@@ -48,6 +47,7 @@ body {
     position: relative;
     top: 25px;
 }
+
 .parentlinks {
     color: white;
     font-size: 0.5em;
@@ -60,6 +60,7 @@ body {
 .parentlinks a:visited{
 	color: white;
 }
+
 .sidebar{
 	float: left;
 	width: 211px;
@@ -78,11 +79,13 @@ div.navi{
 	color: #074c70;
 	line-height: 1.6em;
 }
+
 ul.navi{
 	list-style-type: none;
 	padding: 0;
 	margin: 0;
 }
+
 .navi li{
 	background-image: url("images/navi_normal.jpg");
 	height: 34px;
@@ -94,6 +97,7 @@ ul.navi{
 .navi li a{
 	color: #074c70;
 }
+
 .navi li:hover a{
 		color: white;
 		text-decoration:underline;
@@ -141,6 +145,7 @@ ul.navi a{
 #right{
 	float: right;
 }
+
 .contentbox_top{
 	background-image: url("images/contentbox_top.jpg");
 	width: 778px;
@@ -151,13 +156,13 @@ ul.navi a{
 	padding-left: 9px;
 	padding-top: 3px;
 	line-height: 19px;
-
 }
 
 .comments{
 	float: right;
 	margin-top: 18px;
 }
+
 .commentbox_center{
 	background-image: url("images/comment_box_center.jpg");
 	height: 23px;
@@ -166,28 +171,33 @@ ul.navi a{
 	line-height: 20px;
 	padding-top: 2px;
 }
+
 .commentbox_left{
 	width: 10px;
 	height: 25px;
 	background-image: url("images/commentbox_left.jpg");
 	float: left;
 }
+
 .commentbox_right{
 	background-image: url("images/comment_box_right.jpg");
 	width: 10px;
 	height: 25px;
 	float: left;
 }
+
 .contentarea{
 	width: 777px;
 	background-color: #a3c0ce;
 	padding: 5px;
 	line-height: 1.4em;
 }
+
 .post{
 	width: 787px;
 	margin-right: 20px;
 }
+
 .content_bottom{
 	width: 779px;
 	height: 19px;
@@ -200,12 +210,14 @@ ul.navi a{
 	float: right;
 	line-height: 19px;
 }
+
 .content_autor{
 	color: white;
 	text-align: left;
 	float: left;
 	padding-left: 9px;
 }
+
 #footer{
 	clear: both;
 	width: 1046px;
@@ -216,6 +228,7 @@ ul.navi a{
 	color: white;
 	padding-top: 3px;
 }
+
 #footer a{
 	color: white;
 }
@@ -241,6 +254,7 @@ ul.navi a{
 .pageheader .actions ul {
         border-bottom: none;
 }
+
 .actions a{
 	color: #474747;
 	text-decoration: none;
@@ -288,7 +302,6 @@ div.post h2{
     border-top: 0px none;
     margin: 0 -2px 0 0;
 }
-
 
 #searchform {
     -moz-border-radius: 10px 0 0 10px;
