@@ -3,10 +3,11 @@ Per indicazioni su come arrivare, consulta la [mappa][1].
 
 Prossimo appuntamento:
 
- - [[Venerdì 24 febbraio: Semplici script bash e serata per risolvere eventuali problemi del pc.  (24/02)|libragazzi/24feb2012]]
+ - Venerdì 23 marzo: [[Linux e strumenti per la fotografia|libragazzi/23mar2012]]
 
 Appuntamenti passati:
 
+ - [[Semplici script bash e serata per risolvere eventuali problemi del pc (24/02)|libragazzi/24feb2012]]
  - [[La LIM ed alcuni programmi per la didattica nelle classi elementari (20/01)|libragazzi/20gen2012]]
  - [[I vantaggi di GNU/Linux e il mondo del Software Libero (16/12)|libragazzi/16dic2011]]
  - [[Comunicare con Linux: chat, email, messaggistica (25/11)|libragazzi/25nov2011]] 
