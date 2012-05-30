@@ -15,15 +15,10 @@ Per partecipare è sufficiente registrarsi presso [http://lists.slimp.it/listinf
 Potete anche seguirci su [**Identi.ca**][iden] e su [**Twitter**][tw].  
 
 # Discussioni e progetti dello SLIMP
-
-Attualmente in corso:
-
-  - Incontri mensili presso la [[Libreria dei Ragazzi|libragazzi]]
-
-  **Venerdì 23 marzo**: [[Linux e strumenti per la fotografia|libragazzi/23mar2012]].  
   
 Passate:
 
+  - Incontri mensili presso la [[Libreria dei Ragazzi|libragazzi]]  
   - <strike>[[MARC di Dicembre|marc/inverno-2011]] - 17/18 dicembre, Fiera di Genova</strike>
   - <strike>[[LinuxDay 2011 |linuxday/2011]]</strike>
   - <strike>[[Proposte per nome del LUG |Propostenome]]</strike>
