@@ -19,11 +19,15 @@ Potete anche seguirci su [**Identi.ca**][iden] e su [**Twitter**][tw].
 Passate:
 
   - Incontri mensili presso la [[Libreria dei Ragazzi|libragazzi]]  
-  - <strike>[[MARC di Dicembre|marc/inverno-2011]] - 17/18 dicembre, Fiera di Genova</strike>
-  - <strike>[[LinuxDay 2011 |linuxday/2011]]</strike>
-  - <strike>[[Proposte per nome del LUG |Propostenome]]</strike>
-  - <strike>Organizzazione [[MARC di primavera 2011|marc/primavera-2011]]</strike>
-  - <strike>Raccogliere tutte le [[proposte per il logo |Propostelogo]] e scegliere quello definitivo</strike>
+  - MARC, mostra-mercato dell'elettronica di Genova  
+      * Primavera 2012
+      * [[Inverno 2011|marc/inverno-2011]]
+      * [[Primavera 2011|marc/primavera-2011]]
+  - LinuxDay
+      * [[LinuxDay 2011 |linuxday/2011]]
+  - Organizzazione interna al LUG  
+      * [[Scelta del nome del LUG |Propostenome]]
+      * [[Scelta del logo del LUG |Propostelogo]]
 
 
 Altre risorse:
