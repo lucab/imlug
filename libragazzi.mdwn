@@ -3,7 +3,7 @@ Per indicazioni su come arrivare, consulta la [mappa][1].
 
 Appuntamenti passati:
 
- - [[cena linuxara [agaggio][2](14/07) |Agaggio/14lug2012]]
+ - cena linuxara agaggio (14/07)
  - [[Linux e strumenti per la fotografia (23/03) |libragazzi/23mar2012]]
  - [[Semplici script bash e serata per risolvere eventuali problemi del pc (24/02)|libragazzi/24feb2012]]
  - [[La LIM ed alcuni programmi per la didattica nelle classi elementari (20/01)|libragazzi/20gen2012]]
@@ -17,4 +17,3 @@ Appuntamenti passati:
 
 
   [1]: http://bit.ly/wI6zlw
-  [2]: http://is.gd/qwQWcy
