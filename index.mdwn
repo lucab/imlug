@@ -14,6 +14,10 @@ Per partecipare è sufficiente registrarsi presso [http://lists.slimp.it/listinf
 
 Potete anche seguirci su [**Identi.ca**][iden] e su [**Twitter**][tw].  
 
+# In evidenza
+
+  - *[[LinuxDay 2012 |linuxday/2012]]  - Sabato 27 ottobre, a Imperia*
+
 # Discussioni e progetti dello SLIMP
 
 Attuali:
