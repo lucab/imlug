@@ -42,10 +42,10 @@ Relatore
 Apertura LinuxDay 2012
 </td>
 <td>
-Presentazione del LinuxDay, introduzione al gruppo Slimp e alle attività correnti
+Presentazione del LinuxDay, introduzione al gruppo Slimp e alle attività
 </td>
 <td>
-Marco Vallarino
+n/a
 </td>
 </tr>
 
@@ -55,8 +55,10 @@ Marco Vallarino
 16:30 - 17:25
 </td>
 <td>
+TBD
 </td>
 <td>
+TBD
 </td>
 <td>
 n/a
@@ -69,15 +71,15 @@ n/a
 17:30 - 18:10
 </td>
 <td>
-Gimp e le sue infinite possibilità
+TBD
 </td>
 
 <td>
-Effetti grafici avanzati e fotoritocco con software libero; presentazione e dimostrazione di Gimp.
+TBD
 </td>
 
 <td>
-Peirone
+n/a
 </td>
 </tr>
 
@@ -89,6 +91,7 @@ Peirone
 TBD
 </td>
 <td>
+TBD
 </td>
 <td>
 n/a
@@ -104,7 +107,7 @@ n/a
 TBD
 </td>
 <td>
-TODO
+TBD
 </td>
 <td>
 n/a
@@ -112,13 +115,13 @@ n/a
 </tr> 
 </table>
 
-**Dalle ore 14.30 in poi e fino ad ore 23** - Sala a parte per provare direttamente il sistema GNU/linux, informazioni, e tutto quello che viene in mente e che riguarda GNU/Linux  (supervisione di ugone e SimoneP)
+**Dalle ore 14.30 in poi e fino ad ore 23** - Sala dedicata per provare direttamente il sistema GNU/linux, avere informazioni, e per tutto quello che viene in mente e che riguarda GNU/Linux  (supervisione di ugone e SimoneP)
 
 ## Volontari ##
 
   - LucaB
   - Ugone
-  - Valla
+  - MarcoValla
   - Tu? 
 
 
