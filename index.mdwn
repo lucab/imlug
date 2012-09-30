@@ -16,7 +16,10 @@ Potete anche seguirci su [**Identi.ca**][iden] e su [**Twitter**][tw].
 
 # Discussioni e progetti dello SLIMP
 
-LinuxDay2012
+Attuali:
+
+  - LinuxDay
+      * [[LinuxDay 2012 |linuxday/2012]]
   
 Passate:
 
