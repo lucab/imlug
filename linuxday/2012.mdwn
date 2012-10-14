@@ -113,7 +113,7 @@ Marco Bernardini
 </tr> 
 </table>
 
-**Dalle ore 16.00 in poi e fino ad ore 21** - Sala dedicata per provare direttamente il sistema GNU/linux, avere informazioni, e per tutto quello che viene in mente e che riguarda GNU/Linux  (supervisione di ugone e SimoneP)
+**Dalle ore 16.00 in poi e fino ad ore 21** - Sala dedicata per toccare con mano il sistema operativo, provare su strada tutte le sue funzionalità, e per chiedere tutto quello che viene in mente circa GNU/Linux  (supervisione di ugone).
 
 ## Volontari ##
 
