@@ -3,7 +3,7 @@ border="0" alt="Linux Day" /></a>
 
 ## Quando ##
 
-Sabato 27 ottobre 2011, dalle ore XX.
+Sabato 27 ottobre 2011, dalle ore 16:00.
 
 ## Dove ##
 
@@ -45,63 +45,61 @@ Apertura LinuxDay 2012
 Presentazione del LinuxDay, introduzione al gruppo Slimp e alle attività
 </td>
 <td>
-n/a
+Marco Vallarino
 </td>
 </tr>
 
 
 <tr>
 <td>
-16:30 - 17:25
+16:30 - 16:55
+</td>
+<td>
+Giochi testuali e Linux
 </td>
 <td>
 TBD
 </td>
 <td>
-TBD
-</td>
-<td>
-n/a
+Marco Vallarino
 </td>
 
 </tr>
 
 <tr>
 <td>
-17:30 - 18:10
+17:00 - 17:25
+</td>
+<td>
+Soluzioni di backup per Linux
 </td>
 <td>
 TBD
 </td>
-
 <td>
-TBD
-</td>
-
-<td>
-n/a
+Sergio Pellegrino
 </td>
 </tr>
 
 <tr>
 <td>
-18:15 - 19:55
+17:30 - 17:55
+</td>
+<td>
+Introduzione a Debian GNU/Linux
 </td>
 <td>
 TBD
 </td>
 <td>
-TBD
-</td>
-<td>
-n/a
+Luca Bruno
 </td>
 
 </tr>
 
 <tr>
 <td>
-20:00 - 21:00 
+18:00 - 18:25
 </td>
 <td>
 TBD
@@ -110,12 +108,12 @@ TBD
 TBD
 </td>
 <td>
-n/a
+Marco Bernardini
 </td>
 </tr> 
 </table>
 
-**Dalle ore 14.30 in poi e fino ad ore 23** - Sala dedicata per provare direttamente il sistema GNU/linux, avere informazioni, e per tutto quello che viene in mente e che riguarda GNU/Linux  (supervisione di ugone e SimoneP)
+**Dalle ore 16.00 in poi e fino ad ore 21** - Sala dedicata per provare direttamente il sistema GNU/linux, avere informazioni, e per tutto quello che viene in mente e che riguarda GNU/Linux  (supervisione di ugone e SimoneP)
 
 ## Volontari ##
 
