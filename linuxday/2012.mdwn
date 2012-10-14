@@ -89,7 +89,7 @@ Sergio Pellegrino
 Introduzione a Debian GNU/Linux
 </td>
 <td>
-TBD
+Presentazione della storica distribuzione Linux e del suo progetto comunitario
 </td>
 <td>
 Luca Bruno
@@ -102,10 +102,10 @@ Luca Bruno
 18:00 - 18:25
 </td>
 <td>
-TBD
+Grafica e Linux
 </td>
 <td>
-TBD
+Presentazioni degli strumenti per la grafica su Linux (Gimp e Inkscape)
 </td>
 <td>
 Marco Bernardini
