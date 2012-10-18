@@ -74,7 +74,8 @@ Marco Vallarino
 Soluzioni di backup per Linux
 </td>
 <td>
-TBD
+Un backup fatto da rsnapshot 
+automatizzato con cron
 </td>
 <td>
 Sergio Pellegrino
@@ -123,6 +124,7 @@ Marco Bernardini
   - Serpelle
   - MarcoB
   - LucianoS
+  - Tullio 
   - Tu? 
 
 
