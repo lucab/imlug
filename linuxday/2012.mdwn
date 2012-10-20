@@ -74,8 +74,7 @@ Marco Vallarino
 Soluzioni di backup per Linux
 </td>
 <td>
-Un backup fatto da rsnapshot 
-automatizzato con cron
+Soluzioni per backup automatizzati: rsnapshot e cron
 </td>
 <td>
 Sergio Pellegrino
