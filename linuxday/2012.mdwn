@@ -86,7 +86,7 @@ Sergio Pellegrino
 17:30 - 17:55
 </td>
 <td>
-Introduzione a Debian GNU/Linux
+[[Introduzione a Debian GNU/Linux|/materiale/ld2012/debian-ld2012.svg]]
 </td>
 <td>
 Presentazione della storica distribuzione Linux e del suo progetto comunitario
