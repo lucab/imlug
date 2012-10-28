@@ -44,6 +44,7 @@ Passate:
 Altre risorse:
 
   - [[Articoli utili |rozzilla]]
+  - [[Articoli utili |serpelle]]
 
 
   [iden]: http://identi.ca/slimp
