@@ -16,13 +16,13 @@ Potete anche seguirci su [**Identi.ca**][iden] e su [**Twitter**][tw].
 
 # In evidenza
 
-  - *[[Serata Linuxara |Iniziare con linux da 0]]  - Venerdì 23 novembre, a Imperia*
+  - *[[Serata Linuxara | Iniziare con linux da 0]]  - Venerdì 23 novembre, a Imperia*
 
 # Discussioni e progetti dello SLIMP
 
 Attuali:
 
-  - Prima serata 2012/2013
+  - Prima serata 2012/2013   Iniziare con linux da 0
     Venerdì 23 Novembre 2012 ore 20.30 Libreria Ragazzi ad Imperia
       
   
