@@ -1,0 +1,1 @@
+[[!map pages="materiale/ld2012/* and ! materiale/ld2012/*/*"]]
