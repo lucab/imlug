@@ -43,8 +43,7 @@ Passate:
 
 Altre risorse:
 
-  - [[Articoli utili |mini-guide]]
-  - [[Articoli utili |serpelle]]
+  - [[Mini-guide e articoli utili |mini-guide]]
 
 
   [iden]: http://identi.ca/slimp
