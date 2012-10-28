@@ -1,5 +1,5 @@
 ## Una serie di mini-guide, su argomenti vari
 
   - [[Come montare un file immagine.dd|rozzilla/montare-file-immagine-dd]]
-  - [Come recuperare e ripristinare il grub2|rozzilla/recuperare-grub2]]
-  - [Backup automatici con cron e rsnapshot|serpelle/cron-rsnapshot]]
+  - [[Come recuperare e ripristinare il grub2|rozzilla/recuperare-grub2]]
+  - [[Backup automatici con cron e rsnapshot|serpelle/cron-rsnapshot]]
