@@ -1,5 +1,5 @@
-##Articoli contenenti spiegazioni, ricevute dal gruppo SLIMP, che mi sono state di aiuto.
+## Una serie di mini-guide, su argomenti vari
 
-[Come montare un file immagine.dd](http://www.slimp.it/rozzilla/montare-file-immagine-dd)
-
-[Come recuperare e ripristinare il grub2](http://www.slimp.it/rozzilla/recuperare-grub2)
+  - [Come montare un file immagine.dd](http://www.slimp.it/rozzilla/montare-file-immagine-dd)
+  - [Come recuperare e ripristinare il grub2](http://www.slimp.it/rozzilla/recuperare-grub2)
+  - [Backup automatici con cron e rsnapshot](http://www.slimp.it/server/cron-rsnapshot)
