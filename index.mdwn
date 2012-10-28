@@ -16,14 +16,15 @@ Potete anche seguirci su [**Identi.ca**][iden] e su [**Twitter**][tw].
 
 # In evidenza
 
-  - *[[LinuxDay 2012 |linuxday/2012]]  - Sabato 27 ottobre, a Imperia*
+  - *[[Serata Linuxara |Iniziare con linux da 0]]  - Venerdì 23 novembre, a Imperia*
 
 # Discussioni e progetti dello SLIMP
 
 Attuali:
 
-  - LinuxDay
-      * [[LinuxDay 2012 |linuxday/2012]]
+  - Prima serata 2012/2013
+    Venerdì 23 Novembre 2012 ore 20.30 Libreria Ragazzi ad Imperia
+      
   
 Passate:
 
@@ -33,6 +34,7 @@ Passate:
       * [[Inverno 2011|marc/inverno-2011]]
       * [[Primavera 2011|marc/primavera-2011]]
   - LinuxDay
+      * [[LinuxDay 2012 |linuxday/2012]]
       * [[LinuxDay 2011 |linuxday/2011]]
   - Organizzazione interna al LUG  
       * [[Scelta del nome del LUG |Propostenome]]
