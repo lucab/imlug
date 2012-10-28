@@ -3,6 +3,7 @@ Per indicazioni su come arrivare, consulta la [mappa][1].
 
 Appuntamenti passati:
 
+ - [[Linux da zero (23/11) |libragazzi/23nov2012]]
  - cena linuxara agaggio (14/07)
  - [[Linux e strumenti per la fotografia (23/03) |libragazzi/23mar2012]]
  - [[Semplici script bash e serata per risolvere eventuali problemi del pc (24/02)|libragazzi/24feb2012]]
