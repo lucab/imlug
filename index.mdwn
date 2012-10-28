@@ -16,7 +16,7 @@ Potete anche seguirci su [**Identi.ca**][iden] e su [**Twitter**][tw].
 
 # In evidenza
 
-  - *[[Serata Linuxara | Iniziare con linux da 0]]  - Venerdì 23 novembre, a Imperia*
+  - *[[Linux da zero|libragazzi/23nov2012]]  - Venerdì 23 novembre, a Imperia*
 
 # Discussioni e progetti dello SLIMP
 
