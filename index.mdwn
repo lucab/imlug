@@ -29,7 +29,8 @@ Attuali:
 Passate:
 
   - Incontri saltuari presso la [[Libreria dei Ragazzi|libragazzi]]  
-  - MARC, mostra-mercato dell'elettronica di Genova  
+  - MARC, mostra-mercato dell'elettronica di Genova 
+      * [[Inverno 2012|marc/inverno-2012]]
       * [[Primavera 2012|marc/primavera-2012]]
       * [[Inverno 2011|marc/inverno-2011]]
       * [[Primavera 2011|marc/primavera-2011]]
