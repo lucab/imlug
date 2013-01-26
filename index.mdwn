@@ -16,18 +16,19 @@ Potete anche seguirci su [**Identi.ca**][iden] e su [**Twitter**][tw].
 
 # In evidenza
 
-  - *[[Linux da zero|libragazzi/25gen2013]]  - Venerdì 25 gennaio, a Imperia*
+  - *[[Linux da zero|libragazzi/15feb2013]]  - Venerdì 15 febbraio, a Imperia*
 
 # Discussioni e progetti dello SLIMP
 
 Attuali:
 
-  - Seconda serata 2012/2013   Iniziare con linux da 0
-    Venerdì 25 Gennaio 2013 ore 20.30 Libreria Ragazzi ad Imperia
+  - Terza serata 2012/2013   Iniziare con linux da 0
+    Venerdì 15 Febbraio 2013 ore 20.30 Libreria Ragazzi ad Imperia
       
   
 Passate:
-
+  
+  - Serate Linux da 0
   - Incontri saltuari presso la [[Libreria dei Ragazzi|libragazzi]]  
   - MARC, mostra-mercato dell'elettronica di Genova 
       * [[Inverno 2012|marc/inverno-2012]]
