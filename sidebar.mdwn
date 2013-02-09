@@ -2,7 +2,7 @@
 <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js " type="text/javascript"></script>
 <ul class="navi">
 <!-- Info submenu -->
-<span onmouseover="$('#info').show('fast')" onmouseleave="$('#info').hide('slow')">
+<span onmouseover="$('#info').slideDown('fast')" onmouseleave="$('#info').slideUp('slow')">
 <li class="top">Info & contatti</li>
 <span id="info">
 <li>[[Chi siamo|utenti]]</li>
