@@ -6,7 +6,6 @@
 <!--<li>[[Mini guide|mini-guide]]</a></li>-->
 <li>[[Sala Stampa|stampa]]</a></li>
 <li>[[Chi Siamo|utenti]]</a></li>
-
 <!--<li
 onmouseover="document.getElementById('social').style.display = 'inline'" onmouseout="document.getElementById('social').style.display = 'none'">
 Social Media</li>
