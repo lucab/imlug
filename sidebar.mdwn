@@ -1,12 +1,13 @@
 <div id="left">
 <ul class="navi">
-<li>Sezioni</li>
 <li>[[Home|index]]</li>
-<li>[[Home|index]]</li>
-<li>[[Home|index]]</li>
-<li>[[Home|index]]</li>
-<li>[[Home|index]]</li>
-<li>[[Home|index]]</li>
-<li>[[Home|index]]</li>
+<span
+onmouseover="document.getElementById('social').style.display = 'inline'" 
+onmouseout="document.getElementById('social').style.display = 'none'" 
+<li>Social Media</li>
+<span id="social" style="display:none">
+<li>Identi.ca</li>
+</span>
+</span>
 </ul>
 </div>
