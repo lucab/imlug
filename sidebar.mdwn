@@ -7,12 +7,12 @@
 <li>[[Sala Stampa|stampa]]</a></li>
 <li>[[Chi Siamo|utenti]]</a></li>
 
-<span 
+<div
 onmouseover="document.getElementById('social').style.display = 'inline'" onmouseout="document.getElementById('social').style.display = 'none'">
 <li >Social Media</li>
-<span id="social" style="display:none">
+<div id="social" style="display:none">
 <li>Identi.ca</li>
-</span>
-</span>
+</div>
+</div>
 </ul>
 </div>
