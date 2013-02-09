@@ -15,7 +15,7 @@
 <!-- supporto submenu -->
 <span
 onmouseover="$('#eventi').slideDown('fast')" 
-onmouseout="$('#eventi').slideUp('slow')"
+onmouseleave="$('#eventi').slideUp('slow')"
 >
 <li class="top">Eventi & Incontri</li>
 <span id="eventi" style="display:none">
