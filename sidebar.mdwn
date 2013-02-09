@@ -2,9 +2,9 @@
 <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js " type="text/javascript"></script>
 <ul class="navi">
 <!-- Info submenu -->
-<span
-onmouseover="$('#info').slideDown('fast')" 
-onmouseout="$('#info').slideUp('slow')"
+<div
+onmouseover="$('#info').show('fast')" 
+onmouseout="$('#info').hide('slow')"
 >
 <li class="top">Info & contatti</li>
 <span id="info">
@@ -13,7 +13,8 @@ onmouseout="$('#info').slideUp('slow')"
 <li><a href="http://lists.slimp.it/listinfo/bazar">Mailing list</a></li>
 <li><a href="http://webchat.freenode.net/?channels=slimp">Chat</a></li>
 </span>
-</span>
+</div>
+
 <!-- supporto submenu -->
 <span
 onmouseover="$('#eventi').slideDown('fast')" 
