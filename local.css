@@ -128,7 +128,7 @@ ul.navi a{
 	margin: 0 auto;
 }
 
-#pagebody:before{
+#pageheader:after{
         content: url("images/content_top.jpg");
         width: 1046px;
         height: 4px;
