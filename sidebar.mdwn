@@ -1,6 +1,6 @@
 <div id="left">
 <ul class="navi">
-<li class="top">Sezioni</li>
+<li>Sezioni</li>
 <li>[[Home|index]]</li>
 <li>[[Home|index]]</li>
 <li>[[Home|index]]</li>
