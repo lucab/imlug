@@ -3,8 +3,8 @@
 <ul class="navi">
 <!-- Info submenu -->
 <span
-onmouseover="$('#info').show('fast')" 
-onmouseout="$('#info').hide('slow')"
+onmouseover="$('#info').slideDown('fast')" 
+onmouseout="$('#info').slideUp('slow')"
 >
 <li class="top">Info & contatti</li>
 <span id="info">
@@ -16,8 +16,8 @@ onmouseout="$('#info').hide('slow')"
 </span>
 <!-- supporto submenu -->
 <span
-onmouseover="document.getElementById('eventi').style.display = 'inline'" 
-onmouseout="document.getElementById('eventi').style.display = 'none'"
+onmouseover="$('#eventi').slideDown('fast')" 
+onmouseout="$('#eventi').slideUp('slow')"
 >
 <li class="top">Eventi & Incontri</li>
 <span id="eventi" style="display:none">
@@ -31,8 +31,8 @@ onmouseout="document.getElementById('eventi').style.display = 'none'"
 
 <!-- Social network submenu -->
 <span
-onmouseover="document.getElementById('social').style.display = 'inline'" 
-onmouseout="document.getElementById('social').style.display = 'none'"
+onmouseover="$('#social').slideDown('fast')" 
+onmouseout="$('#social').slideUp('slow')"
 >
 <li class="top">Social networks</li>
 <span id="social" style="display:none">
