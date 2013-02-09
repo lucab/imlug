@@ -2,7 +2,6 @@
 <ul class="navi">
 <li class="top">Sezioni</li>
 <li>[[Home|index]]</li>
-<li>[[Incontri|libragazzi]]</li>
 <li>[[Home|index]]</li>
 <li>[[Home|index]]</li>
 <li>[[Home|index]]</li>
