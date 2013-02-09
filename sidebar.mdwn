@@ -2,15 +2,15 @@
 <ul class="navi">
 <li class="top">Sezioni</li>
 <li>[[Home|index]]</li>
-<li>[[Incontri|libragazzi]]</a></li>
-<!--<li>[[Mini guide|mini-guide]]</a></li>-->
-<li>[[Sala Stampa|stampa]]</a></li>
-<li>[[Chi Siamo|utenti]]</a></li>
-<li>[[Chi Siamo|utenti]]</a></li>
-<li>[[Chi Siamo|utenti]]</a></li>
-<li>[[Chi Siamo|utenti]]</a></li>
-<li>[[Chi Siamo|utenti]]</a></li>
-<li>[[Chi Siamo|utenti]]</a></li>
+<li>[[Incontri|libragazzi]]</li>
+<!--<li>[[Mini guide|mini-guide]]</li>-->
+<li>[[Sala Stampa|stampa]]</li>
+<li>[[Chi Siamo|utenti]]</li>
+<li>[[Chi Siamo|utenti]]</li>
+<li>[[Chi Siamo|utenti]]</li>
+<li>[[Chi Siamo|utenti]]</li>
+<li>[[Chi Siamo|utenti]]</li>
+<li>[[Chi Siamo|utenti]]</li>
 <!--<li
 onmouseover="document.getElementById('social').style.display = 'inline'" onmouseout="document.getElementById('social').style.display = 'none'">
 Social Media</li>
