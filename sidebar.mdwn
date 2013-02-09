@@ -3,8 +3,8 @@
 <ul class="navi">
 <!-- Info submenu -->
 <span
-onmouseover="$('#info').show()" 
-onmouseout="$('#info').hide()"
+onmouseover="$('#info').show(\"fast\")" 
+onmouseout="$('#info').hide(\"slow\")"
 >
 <li class="top">Info & contatti</li>
 <span id="info">
