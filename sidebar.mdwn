@@ -16,7 +16,7 @@ onmouseout="document.getElementById('info').style.display = 'none'"
 <!-- supporto submenu -->
 <span
 onmouseover="document.getElementById('eventi').style.display = 'inline'" 
-onmouseout="document.getElementById('supporto').style.display = 'none'"
+onmouseout="document.getElementById('eventi').style.display = 'none'"
 >
 <li class="top">Eventi & Incontri</li>
 <span id="info" style="display:none">
