@@ -3,8 +3,8 @@ Per indicazioni su come arrivare, consulta la [mappa][1].
 
 Appuntamenti passati:
 
- - [[Linux da zero (23/11) |libragazzi/23nov2012]]
- - cena linuxara agaggio (14/07)
+ - Ciclo [[Linux da zero |libragazzi/linuxdazero]] - Varie date
+ - Cena Agaggio (14/07)
  - [[Linux e strumenti per la fotografia (23/03) |libragazzi/23mar2012]]
  - [[Semplici script bash e serata per risolvere eventuali problemi del pc (24/02)|libragazzi/24feb2012]]
  - [[La LIM ed alcuni programmi per la didattica nelle classi elementari (20/01)|libragazzi/20gen2012]]
