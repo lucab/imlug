@@ -1,5 +1,6 @@
 <div id="left">
 <ul class="navi">
+<li class="top"></li>
 <li>[[Home|index]]</li>
 <span
 onmouseover="document.getElementById('social').style.display = 'inline'" 
