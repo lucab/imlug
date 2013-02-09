@@ -9,7 +9,7 @@
 
 <span 
 onmouseover="document.getElementById('social').style.display = 'inline'" onmouseout="document.getElementById('social').style.display = 'none'">
-<li class="top" >Social Media</li>
+<li >Social Media</li>
 <span id="social" style="display:none">
 <li>Identi.ca</li>
 </span>
