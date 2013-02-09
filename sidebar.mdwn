@@ -2,5 +2,11 @@
 <ul class="navi">
 <li>Sezioni</li>
 <li>[[Home|index]]</li>
+<li>[[Home|index]]</li>
+<li>[[Home|index]]</li>
+<li>[[Home|index]]</li>
+<li>[[Home|index]]</li>
+<li>[[Home|index]]</li>
+<li>[[Home|index]]</li>
 </ul>
 </div>
