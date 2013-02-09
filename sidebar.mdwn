@@ -19,7 +19,7 @@ onmouseover="document.getElementById('eventi').style.display = 'inline'"
 onmouseout="document.getElementById('eventi').style.display = 'none'"
 >
 <li class="top">Eventi & Incontri</li>
-<span id="info" style="display:none">
+<span id="eventi" style="display:none">
 <li>[[MARC|marc]]</li>
 <li>[[Libreria dei Ragazzi|libragazzi]]</li>
 <li>[[Linux Da Zero|linuxdazero]]</li>
