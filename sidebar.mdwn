@@ -1,7 +1,10 @@
 <div id="left">
 <ul class="navi">
 <li class="top">Sezioni</li>
-<li>[[Home|index]]</li>
+<li>[[Chi Siamo|utenti]]</li>
+<li>[[Chi Siamo|utenti]]</li>
+<li>[[Chi Siamo|utenti]]</li>
+<li>[[Chi Siamo|utenti]]</li><li>[[Home|index]]</li>
 <li>[[Incontri|libragazzi]]</li>
 <!--<li>[[Mini guide|mini-guide]]</li>-->
 <li>[[Sala Stampa|stampa]]</li>
