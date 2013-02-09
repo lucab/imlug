@@ -2,9 +2,9 @@
 <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js " type="text/javascript"></script>
 <ul class="navi">
 <!-- Info submenu -->
-<span onmouseover="$('#info').show('fast')" onmouseout="$('#info').hide('slow')">
+<span onmouseover="$('#info').show('fast')" onmouseleave="$('#info').hide('slow')">
 <li class="top">Info & contatti</li>
-<span id="info" onmouseover="$('#info').show('fast')" onmouseout="$('#info').hide('slow')">
+<span id="info">
 <li>[[Chi siamo|utenti]]</li>
 <li>[[Sala Stampa|stampa]]</li>
 <li><a href="http://lists.slimp.it/listinfo/bazar">Mailing list</a></li>
@@ -30,7 +30,7 @@ onmouseleave="$('#eventi').slideUp('slow')"
 <!-- Social network submenu -->
 <span
 onmouseover="$('#social').slideDown('fast')" 
-onmouseout="$('#social').slideUp('slow')"
+onmouseleave="$('#social').slideUp('slow')"
 >
 <li class="top">Social networks</li>
 <span id="social" style="display:none">
