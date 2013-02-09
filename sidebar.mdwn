@@ -2,9 +2,6 @@
 <ul class="navi">
 <li class="top">Sezioni</li>
 <li>[[Chi Siamo|utenti]]</li>
-<li>[[Chi Siamo|utenti]]</li>
-<li>[[Chi Siamo|utenti]]</li>
-<li>[[Chi Siamo|utenti]]</li>
 <li>[[Home|index]]</li>
 <li>[[Incontri|libragazzi]]</li>
 <li>[[Chi Siamo|utenti]]</li>
