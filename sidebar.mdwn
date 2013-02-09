@@ -1,15 +1,48 @@
 <div id="left">
 <ul class="navi">
-<li class="top"></li>
-<li>[[Home|index]]</li>
+<!-- Info submenu -->
+<span
+onmouseover="document.getElementById('info').style.display = 'inline'" 
+onmouseout="document.getElementById('info').style.display = 'none'"
+>
+<li class="top">Info & contatti</li>
+<span id="info" style="display:none">
+<li>[[Chi siamo|utenti]]</li>
+<li>[Mailing list][ML]</li>
+<li>[[Sala Stampa|stampa]]</li>
+</span>
+</span>
+
+<!-- supporto submenu -->
+<span
+onmouseover="document.getElementById('supporto').style.display = 'inline'" 
+onmouseout="document.getElementById('supporto').style.display = 'none'"
+>
+<li class="top">Eventi</li>
+<span id="info" style="display:none">
+<li>[[MARC|marc]]</li>
+<li>[[Libreria dei Ragazzi|libragazzi]]</li>
+</span>
+</span>
+
+
+
+<!-- Social network submenu -->
 <span
 onmouseover="document.getElementById('social').style.display = 'inline'" 
 onmouseout="document.getElementById('social').style.display = 'none'"
 >
-<li>Social Media</li>
+<li class="top">Social networks</li>
 <span id="social" style="display:none">
 <li>Identi.ca</li>
+<li>G+</li>
+<li>Facebook</li>
 </span>
 </span>
 </ul>
 </div>
+
+
+  [ML]: http://lists.slimp.it/listinfo/bazar
+  [FB]: http://todo
+  [G+]: http://todo
