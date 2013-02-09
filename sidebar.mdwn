@@ -4,7 +4,7 @@
 <!-- Info submenu -->
 <span onmouseover="$('#info').show('fast')" onmouseout="$('#info').hide('slow')">
 <li class="top">Info & contatti</li>
-<span id="info">
+<span id="info" onmouseover="$('#info').show('fast')" onmouseout="$('#info').hide('slow')">
 <li>[[Chi siamo|utenti]]</li>
 <li>[[Sala Stampa|stampa]]</li>
 <li><a href="http://lists.slimp.it/listinfo/bazar">Mailing list</a></li>
