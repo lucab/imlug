@@ -37,7 +37,7 @@ onmouseleave="$('#social').slideUp('slow')"
 <li><a href="http://identi.ca/infoslimp">Identi.ca</a></li>
 <li><a href="https://twitter.com/infoslimp">Twitter</a></li>
 <li><a href="https://plus.google.com/u/0/communities/115573594984583107699">G+ Community</a></li>
-<li><a href="http://lists.slimp.it/listinfo/bazar">Facebook</a></li>
+<li><a href="http://www.facebook.com/groups/slimp/">Facebook</a></li>
 </span>
 </span>
 </ul>
