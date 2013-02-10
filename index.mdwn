@@ -12,7 +12,7 @@ Per partecipare è sufficiente registrarsi presso [**http://lists.slimp.it/listi
 
   [mailman]: http://lists.slimp.it/listinfo/bazar
 
-Potete anche seguirci su [**Identi.ca**][iden] e su [**Twitter**][tw].  
+Potete anche seguirci su [**Identi.ca**][iden], su [**Twitter**][tw] e su [**Google+**][goo+].  
 
 # In evidenza
 
@@ -50,6 +50,7 @@ Altre risorse:
 
   [iden]: http://identi.ca/slimp
   [tw]: http://twitter.com/#!/infoslimp
+  [goo+]: https://plus.google.com/u/0/communities/115573594984583107699
 
 
   [1]: http://goo.gl/maps/SiHa
