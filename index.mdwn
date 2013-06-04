@@ -16,15 +16,15 @@ Potete anche seguirci su [**Identi.ca**][iden], su [**Twitter**][tw], su [**Goog
 
 # In evidenza
 
-  - *[[Linux da zero|libragazzi/10mag2013]]  - Venerdì 10 Maggio, a Imperia*
+  - *[[Linux da zero|libragazzi/21giu2013]]  - Venerdì 21 Giugno, a Imperia*
 
 # Discussioni e progetti dello SLIMP
 
 Attuali:
 
-  - Sesta serata 2012/2013   Iniziare con linux da 0
-  - Venerdì 10 Maggio 2013 ore 20.30 Libreria Ragazzi ad Imperia
-  - Marc primavera 2013
+  - Settima serata 2012/2013   Iniziare con linux da 0
+  - Venerdì 21 Giugno 2013 ore 20.30 Libreria Ragazzi ad Imperia
+  - 
       
   
 Passate:
@@ -32,6 +32,7 @@ Passate:
   - Serate Linux da 0
   - Incontri saltuari presso la [[Libreria dei Ragazzi|libragazzi]]  
   - MARC, mostra-mercato dell'elettronica di Genova 
+      * [[Primavera 2013|marc/primavera-2013]]
       * [[Inverno 2012|marc/inverno-2012]]
       * [[Primavera 2012|marc/primavera-2012]]
       * [[Inverno 2011|marc/inverno-2011]]
