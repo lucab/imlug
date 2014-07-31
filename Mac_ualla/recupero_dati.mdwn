@@ -77,3 +77,5 @@ Basta solo copiare l'ultimo in ordine di data e poi importarlo
 in firefox.
 
 Ecco fatto, questo è tutto.
+
+guida redatta da mac ualla nel mese di luglio 2014
