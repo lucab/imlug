@@ -68,22 +68,14 @@ Questi comandi hanno fatto si che recuperassi tutti i miei file importanti nella
 **Per recuperare i preferiti di mozilla**
 
 Bisogna:
-<<<<<<< HEAD
+
 1. "1) andare nella /home/ dell hard disk,"
 2. "2) premere CTRL+h per visualizzare i file nascosti"
 3. "3) aprire la directory nascosta .mozilla"
 4. "4) aprire la directory firefox"
 5. "5) aprire la directory con caratteri e lettere "strani""
 6. "6) aprire la directory bookmarkbackups"
-=======
 
-1. " andare nella /home/ dell hard disk,"
-2. " premere CTRL+h per visualizzare i file nascosti"
-3. " aprire la directory nascosta .mozilla"
-4. " aprire la directory firefox"
-5. " aprire la directory con caratteri e lettere "strani""
-6. " aprire la directory bookmarkbackups"
->>>>>>> afce159a71972e74eeae6f2bf74a713d00b2ea0f
 All interno di questa ultima directory si trovano tutti i backup
 dei preferiti (bookmarks) che firefox salva in automatico.
 Basta solo copiare l'ultimo in ordine di data e poi importarlo
