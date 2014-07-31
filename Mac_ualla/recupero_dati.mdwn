@@ -50,14 +50,23 @@ all' interno della directory ecryptfs.... (icona cartella con un lucchetto sopra
 Ecco qua sotto un copia-incolla della sequenza comandi/risposte:
 
 ubuntu@ubuntu:~$ sudo ecryptfs-recover-private
+
 INFO: Searching for encrypted private directories (this might take a while)...
+
 INFO: Found [/media/ubuntu/cbbbd9db-3de7-4fd7-9d66-c15a6793a38a/home/.ecryptfs/marco/.Private].
+
 Try to recover this directory? [Y/n]: y
+
 INFO: Found your wrapped-passphrase
+
 Do you know your LOGIN passphrase? [Y/n] y
+
 INFO: Enter your LOGIN passphrase...
+
 Passphrase: 
+
 Inserted auth tok with sig [05c086cffbebfb2f] into the user session keyring
+
 INFO: Success!  Private data mounted at [/tmp/ecryptfs.5U9Qi5Wq].
 
 
