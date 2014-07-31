@@ -1,0 +1,79 @@
+**Breve guida per recuperare file da hardisk con installazione di UBUNTU
+che dopo aggiornamento driver o software non parte piu in modalita grafica:**
+
+
+1) Innanzitutto l' hardisk difettoso deve essere collegato
+   all'interno del pc sul controller IDE o su quello SATA (secondo del modello)
+2) Scaricare e masterizzare ISO della stessa versione
+   di Ubuntu installata sull' hardisk
+2) Avviare il PC da Livecd
+3) Una volta avviato il sistema verificare che ubuntu veda hardisk
+4) Digitare il seguente comando da terminale:
+
+	sudo ecryptfs-recover-private
+
+Ci metterà un po di tempo ma alla fine uscirà la seguente riga:
+
+	INFO: Searching for encrypted private directories (this might take a while)...
+	INFO: Found [/media/ubuntu/cbbbd9db-3de7-4fd7-9d66-c15a6793a38a/home/.ecryptfs/marco/.Private].
+	Try to recover this directory? [Y/n]:
+
+Basta rispondere
+
+	Y
+
+Così si avrà in risposta:
+
+	Do you know your LOGIN passphrase? [Y/n]
+
+Basta rispondere
+
+	Y
+
+Poi chiederà di inserire la password
+
+	INFO: Enter your LOGIN passphrase...
+	Passphrase:
+
+Basterà digitare la password dell'utente che usava Ubuntu su hardisk difettoso e
+si otterrà in risposta una frase simile:
+
+	Inserted auth tok with sig [05c086cffbebfb2f] into the user session keyring
+	INFO: Success!  Private data mounted at [/tmp/ecryptfs.5U9Qi5Wq].
+
+Che sta ad indicare che i file decriptati si trovano nella directory filesystem/tmp
+all' interno della directory ecryptfs.... (icona cartella con un lucchetto sopra).
+
+Ecco qua sotto un copia-incolla della sequenza comandi/risposte:
+
+ubuntu@ubuntu:~$ sudo ecryptfs-recover-private
+INFO: Searching for encrypted private directories (this might take a while)...
+INFO: Found [/media/ubuntu/cbbbd9db-3de7-4fd7-9d66-c15a6793a38a/home/.ecryptfs/marco/.Private].
+Try to recover this directory? [Y/n]: y
+INFO: Found your wrapped-passphrase
+Do you know your LOGIN passphrase? [Y/n] y
+INFO: Enter your LOGIN passphrase...
+Passphrase: 
+Inserted auth tok with sig [05c086cffbebfb2f] into the user session keyring
+INFO: Success!  Private data mounted at [/tmp/ecryptfs.5U9Qi5Wq].
+
+
+Spero di essere stato abbastanza chiaro.
+Questi comandi hanno fatto si che recuperassi tutti i miei file importanti nella /home dell hard disk (documenti, immagini, musica, ecc.)
+
+
+**Per recuperare i preferiti di mozilla**
+
+Bisogna:
+1) andare nella root dell hard disk,
+2) premere CTRL+h per visualizzare i file nascosti
+3) aprire la directory nascosta .mozilla
+4) aprire la directory firefox
+5) aprire la directory con caratteri e lettere "strani"
+6) aprire la directory bookmarkbackups
+All interno di questa ultima directory si trovano tutti i backup
+dei preferiti (bookmarks) che firefox salva in automatico.
+Basta solo copiare l'ultimo in ordine di data e poi importarlo
+in firefox.
+
+Ecco fatto, questo è tutto.
