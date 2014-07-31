@@ -1,6 +1,9 @@
 **Breve guida per recuperare file da hardisk con installazione di UBUNTU
 che dopo aggiornamento driver o software non parte piu in modalita grafica:**
 
+piccola premessa
+sist op ubuntu e partizione home criptata
+
 
 1) Innanzitutto l' hardisk difettoso deve essere collegato
    all'interno del pc sul controller IDE o su quello SATA (secondo del modello)
