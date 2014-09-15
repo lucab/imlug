@@ -16,15 +16,15 @@ Potete anche seguirci su [**Identi.ca**][iden], su [**Twitter**][tw], su [**Goog
 
 # In evidenza
 
-  - *[[Linux da zero|libragazzi/9Maggio2014]]  - Venerdì 9 Maggio, a Imperia*
+  - *[[Linux da zero|libragazzi/26Settembre2014]]  - Venerdì 26 Settembre, a Imperia*
 
 # Discussioni e progetti dello SLIMP
 
 Attuali:
 
-  - Quarta serata 2014   Iniziare con linux da 0
-  - Venerdì 9 Maggio 2014 ore 20.30 Libreria Ragazzi ad Imperia
-  - 
+  - Quinta serata 2014   Iniziare con linux da 0
+  - Venerdì 26 Settembre 2014 ore 20.30 Libreria Ragazzi ad Imperia
+  - LinuxDay 2014 25 Ottobre 2014 alla Libreria Ragazzi
       
   
 Passate:
