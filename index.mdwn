@@ -20,14 +20,15 @@ Potete anche seguirci su [**Identi.ca**][iden], su [**Twitter**][tw], su [**Goog
 
 # Discussioni e progetti dello SLIMP
 
-Attuali:
+**Attuali:**
 
   - Quinta serata 2014   Iniziare con linux da 0
-  - Venerdì 26 Settembre 2014 ore 20.30 Libreria Ragazzi ad Imperia
+  - **Venerdì 26 Settembre** 2014 ore 20.30 Libreria Ragazzi ad Imperia:
+    Preparazione al **[LinuxDay][1]**, proposte per la scaletta dei talk e breve presentazione del progetto imperiese open source [The Shaper, dedicato alla stampa 3D][2]
   - LinuxDay 2014 25 Ottobre 2014 alla Libreria Ragazzi
       
   
-Passate:
+**Passate:**
   
   - Serate Linux da 0
   - Incontri saltuari presso la [[Libreria dei Ragazzi|libragazzi]]  
@@ -56,4 +57,6 @@ Altre risorse:
   [goo+]: https://plus.google.com/u/0/communities/115573594984583107699
   [facx]: http://www.facebook.com/groups/slimp/
 
-  [1]: http://goo.gl/maps/SiHa
+
+  [1]: http://www.linuxday.it/
+  [2]: http://www.theshaper.net/
