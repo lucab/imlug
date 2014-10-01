@@ -16,12 +16,12 @@ Potete anche seguirci su [**Identi.ca**][iden], su [**Twitter**][tw], su [**Goog
 
 # In evidenza
 
-  **LinuxDay 2014:** 
-    25 Ottobre 2014 alla Libreria Ragazzi.
-    Programma talk (da confermare):
-    1) [*OpenStreetMap]*[1]
-    2) *Gpg*
-    3) *Stampa 3D* e descrizione del [progetto italiano open source **The Shaper**][1], dedicato alla condivisione di risorse per la stampa 3D.
+  **LinuxDay 2014** 
+   - 25 Ottobre 2014 alla Libreria Ragazzi.
+   - Programma talk (da confermare):
+    * 1) [*OpenStreetMap]*[1]
+    * 2) *Gpg*
+    * 3) *Stampa 3D* e descrizione del [progetto italiano open source **The Shaper**][1], dedicato alla condivisione di risorse per la stampa 3D.
 
 # Discussioni e progetti dello SLIMP
 
