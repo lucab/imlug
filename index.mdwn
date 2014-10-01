@@ -16,20 +16,24 @@ Potete anche seguirci su [**Identi.ca**][iden], su [**Twitter**][tw], su [**Goog
 
 # In evidenza
 
-  - *[[Linux da zero|libragazzi/26Settembre2014]]  - Venerdì 26 Settembre, a Imperia*
+  **LinuxDay 2014:** 
+    25 Ottobre 2014 alla Libreria Ragazzi.
+    Programma talk (da confermare):
+    1) [*OpenStreetMap]*[1]
+    2) *Gpg*
+    3) *Stampa 3D* e descrizione del [progetto italiano open source **The Shaper**][1], dedicato alla condivisione di risorse per la stampa 3D.
 
 # Discussioni e progetti dello SLIMP
 
 **Attuali:**
-
   - Quinta serata 2014   Iniziare con linux da 0
-  - **Venerdì 26 Settembre** 2014 ore 20.30 Libreria Ragazzi ad Imperia:
-    Preparazione al **[LinuxDay][1]**, proposte per la scaletta dei talk e breve presentazione del progetto imperiese open source [The Shaper, dedicato alla stampa 3D][2]
   - LinuxDay 2014 25 Ottobre 2014 alla Libreria Ragazzi
       
   
 **Passate:**
-  
+
+  - **Venerdì 26 Settembre** 2014 ore 20.30 Libreria Ragazzi ad Imperia:
+    Preparazione al **[LinuxDay][2]**, proposte per la scaletta dei talk e breve presentazione        del progetto imperiese open source [The Shaper, dedicato alla stampa 3D][3]  
   - Serate Linux da 0
   - Incontri saltuari presso la [[Libreria dei Ragazzi|libragazzi]]  
   - MARC, mostra-mercato dell'elettronica di Genova
@@ -58,5 +62,6 @@ Altre risorse:
   [facx]: http://www.facebook.com/groups/slimp/
 
 
-  [1]: http://www.linuxday.it/
-  [2]: http://www.theshaper.net/
+  [1]: http://www.theshaper.net/ "The Shaper - Portale open source stampa 3D"
+  [2]: http://www.linuxday.it/
+  [3]: http://www.theshaper.net/
