@@ -16,7 +16,7 @@ Potete anche seguirci su [**Identi.ca**][iden], su [**Twitter**][tw], su [**Goog
 
 # In evidenza
 
-   - **LinuxDay** - 25 Ottobre 2014 alla Libreria Ragazzi.
+   - **LinuxDay 2014** - 25 Ottobre alla Libreria Ragazzi.
    - Programma talk (da confermare):
       * [OpenStreetMap][1]
       * Gpg
