@@ -1,5 +1,5 @@
 <img src="http://dueville.linux.it/wp-content/uploads/2014/10/Linuxday.png"
-border="0" alt="Linux Day" align="left"/>
+border="0" alt="Linux Day" align="right"/>
 
 ## Quando ##
 
