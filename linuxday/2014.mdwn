@@ -17,7 +17,7 @@ Ad Imperia (Oneglia), presso la [Libreria Ragazzi][1].
       * OpenStreetMap
       * Gpg
       * Linux e Ninux
-      * **Stampa 3D**: vantaggi riguardanti le immense possibilità derivanti da questa meravigliosa tecnologia e possibili svantaggi causati da un uso errato delle stampanti 3D. Descrizione del progetto italiano open source **The Shaper**, dedicato alla condivisione di risorse e conoscenza per la stampa 3D.
+      * **Stampa 3D** e [progetto open source **The Shaper**][3].
 
 **Dalle ore 16.00 in poi e fino ad ore 21** - Sala dedicata per toccare con mano il sistema operativo, provare su strada tutte le sue funzionalità, e per chiedere tutto quello che viene in mente circa GNU/Linux  (supervisione di ugone).
 
@@ -31,3 +31,4 @@ Ad Imperia (Oneglia), presso la [Libreria Ragazzi][1].
 
   [1]: http://www.libreriaragazzi.com
   [2]: http://maps.cloudmade.com/?lat=43.889279&lng=8.041177&zoom=17&directions=43.88978594011755,8.04075837135315&travel=car&styleId=1&opened_tab=0
+  [3]: http://www.theshaper.net
