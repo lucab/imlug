@@ -1,0 +1,33 @@
+<img src="http://dueville.linux.it/wp-content/uploads/2014/10/Linuxday.png"
+border="0" alt="Linux Day" />
+
+## Quando ##
+
+Sabato 25 ottobre 2014, dalle ore 14:00.
+
+## Dove ##
+
+Ad Imperia (Oneglia), presso la [Libreria Ragazzi][1].
+
+  - [Via Vieusseux, 14/1 (Primo Piano) - 18100 Imperia][2]
+
+## Cosa ##
+
+   - Programma delle aree tematiche (da confermare):
+      * OpenStreetMap
+      * Gpg
+      * Linux e Ninux
+      * **Stampa 3D**: vantaggi riguardanti le immense possibilità derivanti da questa meravigliosa tecnologia e possibili svantaggi causati da un uso errato delle stampanti 3D. Descrizione del progetto italiano open source **The Shaper**, dedicato alla condivisione di risorse e conoscenza per la stampa 3D.
+
+**Dalle ore 16.00 in poi e fino ad ore 21** - Sala dedicata per toccare con mano il sistema operativo, provare su strada tutte le sue funzionalità, e per chiedere tutto quello che viene in mente circa GNU/Linux  (supervisione di ugone).
+
+## Volontari ##
+
+  - Ugone
+  - Valla
+  - Rozzilla
+  - Tu? 
+
+
+  [1]: http://www.libreriaragazzi.com
+  [2]: http://maps.cloudmade.com/?lat=43.889279&lng=8.041177&zoom=17&directions=43.88978594011755,8.04075837135315&travel=car&styleId=1&opened_tab=0
