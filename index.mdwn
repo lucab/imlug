@@ -20,7 +20,7 @@ Potete anche seguirci su [**Identi.ca**][iden], su [**Twitter**][tw], su [**Goog
    - Programma talk (da confermare):
       * [OpenStreetMap][1]
       * Gpg
-      * Stampa 3D e descrizione del [progetto italiano open source **The Shaper**][2], dedicato alla condivisione di risorse per la stampa 3D.
+      * **Stampa 3D**: vantaggi riguardanti le immense possibilità derivanti da questa meravigliosa tecnologia e possibili svantaggi causati da un uso errato delle stampanti 3D. Descrizione del [progetto italiano open source **The Shaper**][2], dedicato alla condivisione di risorse e conoscenza per la stampa 3D.
 
 # Discussioni e progetti dello SLIMP
 
