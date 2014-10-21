@@ -16,12 +16,12 @@ Potete anche seguirci su [**Identi.ca**][iden], su [**Twitter**][tw], su [**Goog
 
 # In evidenza
 
-   - **LinuxDay 2014** - 25 Ottobre alla Libreria Ragazzi.
+   - **[LinuxDay 2014][1]** - 25 Ottobre alla Libreria Ragazzi.
    - Programma talk (da confermare):
-      * [OpenStreetMap][1]
+      * [OpenStreetMap][2]
       * Gpg
       * Linux e Ninux
-      * **Stampa 3D**: vantaggi riguardanti le immense possibilità derivanti da questa meravigliosa tecnologia e possibili svantaggi causati da un uso errato delle stampanti 3D. Descrizione del [progetto italiano open source **The Shaper**][2], dedicato alla condivisione di risorse e conoscenza per la stampa 3D.
+      * **Stampa 3D**: vantaggi riguardanti le immense possibilità derivanti da questa meravigliosa tecnologia e possibili svantaggi causati da un uso errato delle stampanti 3D. Descrizione del [progetto italiano open source **The Shaper**][3], dedicato alla condivisione di risorse e conoscenza per la stampa 3D.
 
 # Discussioni e progetti dello SLIMP
 
@@ -33,7 +33,7 @@ Potete anche seguirci su [**Identi.ca**][iden], su [**Twitter**][tw], su [**Goog
 **Passate:**
 
   - **Venerdì 26 Settembre** 2014 ore 20.30 Libreria Ragazzi ad Imperia:
-    Preparazione al **[LinuxDay][3]**, proposte per la scaletta dei talk e breve presentazione        del progetto imperiese open source [The Shaper, dedicato alla stampa 3D][4]  
+    Preparazione al **[LinuxDay][4]**, proposte per la scaletta dei talk e breve presentazione        del progetto imperiese open source [The Shaper, dedicato alla stampa 3D][5]  
   - Serate Linux da 0
   - Incontri saltuari presso la [[Libreria dei Ragazzi|libragazzi]]  
   - MARC, mostra-mercato dell'elettronica di Genova
@@ -62,7 +62,8 @@ Altre risorse:
   [facx]: http://www.facebook.com/groups/slimp/
 
 
-  [1]: http://www.openstreetmap.org/
-  [2]: http://www.theshaper.net/ "The Shaper - Portale open source stampa 3D"
-  [3]: http://www.linuxday.it/
-  [4]: http://www.theshaper.net/
+  [1]: http://slimp.it/linuxday/2014
+  [2]: http://www.openstreetmap.org/
+  [3]: http://www.theshaper.net/ "The Shaper - Portale open source stampa 3D"
+  [4]: http://www.linuxday.it/
+  [5]: http://www.theshaper.net/
