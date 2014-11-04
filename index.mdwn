@@ -16,18 +16,14 @@ Potete anche seguirci su [**Identi.ca**][iden], su [**Twitter**][tw], su [**Goog
 
 # In evidenza
 
-   - **[LinuxDay 2014][1]** - 25 Ottobre alla Libreria Ragazzi.
-   - Programma talk (da confermare):
-      * [OpenStreetMap][2]
-      * Gpg
-      * Linux e Ninux
-      * **Stampa 3D**: vantaggi riguardanti le immense possibilità derivanti da questa meravigliosa tecnologia e possibili svantaggi causati da un uso errato delle stampanti 3D. Descrizione del [progetto italiano open source **The Shaper**][3], dedicato alla condivisione di risorse e conoscenza per la stampa 3D.
+   - **[Serata linuxara 2014][1]** - 14 Novembre dalle ore 20.30 alla Libreria Ragazzi.
+   
 
 # Discussioni e progetti dello SLIMP
 
 **Attuali:**
-  - Quinta serata 2014   Iniziare con linux da 0
-  - LinuxDay 2014 25 Ottobre 2014 alla Libreria Ragazzi
+  - Sesta serata 2014   Iniziare con linux da 0
+  
       
   
 **Passate:**
