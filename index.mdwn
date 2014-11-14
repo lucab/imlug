@@ -15,8 +15,11 @@ Per partecipare è sufficiente registrarsi presso [**http://lists.slimp.it/listi
 Potete anche seguirci su [**Identi.ca**][iden], su [**Twitter**][tw], su [**Google+**][goo+] e su [**Facebook**][facx] 
 
 # In evidenza
+# h1 ATTENZIONE LA SERATA E' STATA ANNULLATA CAUSA ALLERTA METEO 2
+   
+   - **[Serata linuxara 2014][1]** - 14 Novembre dalle ore 20.30 alla Libreria Ragazzi. 
 
-   - **[Serata linuxara 2014][1]** - 14 Novembre dalle ore 20.30 alla Libreria Ragazzi.
+#H1 ATTENZIONE LA SERATA E' STATA ANNULLATA CAUSA ALLERTA METEO 2
    
 
 # Discussioni e progetti dello SLIMP
