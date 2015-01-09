@@ -15,17 +15,17 @@ Per partecipare è sufficiente registrarsi presso [**http://lists.slimp.it/listi
 Potete anche seguirci su [**Identi.ca**][iden], su [**Twitter**][tw], su [**Google+**][goo+] e su [**Facebook**][facx] 
 
 # In evidenza
-# h1 ATTENZIONE LA SERATA E' STATA ANNULLATA CAUSA ALLERTA METEO 2
-   
-   - **[Serata linuxara 2014][1]** - 14 Novembre dalle ore 20.30 alla Libreria Ragazzi. 
 
-#H1 ATTENZIONE LA SERATA E' STATA ANNULLATA CAUSA ALLERTA METEO 2
+   
+   - **[Serata linuxara 2015][1]** - 23 Gennaio dalle ore 20.30 alla Libreria Ragazzi.(recupero dati con testdisk) 
+
+
    
 
 # Discussioni e progetti dello SLIMP
 
 **Attuali:**
-  - Sesta serata 2014   Iniziare con linux da 0
+  - Prima serata 2015   Iniziare con linux da 0
   
       
   
