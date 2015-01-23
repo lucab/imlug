@@ -17,7 +17,7 @@ Potete anche seguirci su [**Identi.ca**][iden], su [**Twitter**][tw], su [**Goog
 # In evidenza
 
    
-   - **[Serata linuxara 2015][1]** - 23 Gennaio dalle ore 20.30 alla Libreria Ragazzi.(recupero dati con testdisk) 
+   - **[Serata linuxara 2015][1]** - 20 Febbraio dalle ore 20.30 alla Libreria Ragazzi.(uso ed abuso del file /etc/host ) 
 
 
    
@@ -25,7 +25,7 @@ Potete anche seguirci su [**Identi.ca**][iden], su [**Twitter**][tw], su [**Goog
 # Discussioni e progetti dello SLIMP
 
 **Attuali:**
-  - Prima serata 2015   Iniziare con linux da 0
+  - Secondaa serata 2015   Iniziare con linux da 0
   
       
   
