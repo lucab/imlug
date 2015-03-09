@@ -17,7 +17,9 @@ Potete anche seguirci su [**Identi.ca**][iden], su [**Twitter**][tw], su [**Goog
 # In evidenza
 
    
-   - **[Serata linuxara 2015][1]** - 20 Febbraio dalle ore 20.30 alla Libreria Ragazzi.(uso ed abuso del file /etc/host ) 
+   - **[Serata linuxara 2015][1]** - 20 Marzo dalle ore 20.30 alla Libreria Ragazzi.
+
+( tema della serata in occasione del Documen Freedom Day del 25 marzo 2015  "Il software libero e i formati aperti”) 
 
 
    
@@ -25,16 +27,17 @@ Potete anche seguirci su [**Identi.ca**][iden], su [**Twitter**][tw], su [**Goog
 # Discussioni e progetti dello SLIMP
 
 **Attuali:**
-  - Seconda serata 2015   Iniziare con linux da 0
+  - terza serata 2015   Iniziare con linux da 0
   
       
   
 **Passate:**
 
+  - Serate Linux da 0
+
   - **Venerdì 26 Settembre** 2014 ore 20.30 Libreria Ragazzi ad Imperia:
     Preparazione al **[LinuxDay][4]**, proposte per la scaletta dei talk e breve presentazione        del progetto imperiese open source [The Shaper, dedicato alla stampa 3D][5]  
-  - Serate Linux da 0
-  - Incontri saltuari presso la [[Libreria dei Ragazzi|libragazzi]]  
+   - Incontri saltuari presso la [[Libreria dei Ragazzi|libragazzi]]  
   - MARC, mostra-mercato dell'elettronica di Genova
       * [[Inverno 2013|marc/inverno-2013]]
       * [[Primavera 2013|marc/primavera-2013]]
