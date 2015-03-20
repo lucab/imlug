@@ -17,9 +17,9 @@ Potete anche seguirci su [**Identi.ca**][iden], su [**Twitter**][tw], su [**Goog
 # In evidenza
 
    
-   - **[Serata linuxara 2015][1]** - 20 Marzo dalle ore 20.30 alla Libreria Ragazzi.
+   - **[Serata linuxara 2015][1]** - 10 Aprile dalle ore 20.30 alla Libreria Ragazzi.
 
-( tema della serata in occasione del Documen Freedom Day del 25 marzo 2015  "Il software libero e i formati aperti”) 
+ 
 
 
    
@@ -27,7 +27,7 @@ Potete anche seguirci su [**Identi.ca**][iden], su [**Twitter**][tw], su [**Goog
 # Discussioni e progetti dello SLIMP
 
 **Attuali:**
-  - terza serata 2015   Iniziare con linux da 0
+  - Quarta serata 2015   Iniziare con linux da 0
   
       
   
