@@ -64,7 +64,7 @@ Altre risorse:
   [facx]: http://www.facebook.com/groups/slimp/
 
 
-  [1]: http://slimp.it/linuxday/2014
+  [1]: http://slimp.it/linuxday/2015
   [2]: http://www.openstreetmap.org/
   [3]: http://www.theshaper.net/ "The Shaper - Portale open source stampa 3D"
   [4]: http://www.linuxday.it/
