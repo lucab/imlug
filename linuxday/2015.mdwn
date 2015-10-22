@@ -3,7 +3,7 @@ border="0" alt="Linux Day" align="right"/>
 
 ## Quando ##
 
-Sabato 25 ottobre 2014, dalle ore 14:00.
+Sabato 24 ottobre 2015, dalle ore 14:30.
 
 ## Dove ##
 
@@ -15,9 +15,9 @@ Ad Imperia (Oneglia), presso la [Libreria Ragazzi][1].
 
    - Programma delle aree tematiche (da confermare):
       * OpenStreetMap
-      * Gpg
+      * recupero dati
       * Linux e Ninux
-      * **Stampa 3D** e [progetto open source **The Shaper**][3].
+      * Scribus
 
 **Dalle ore 16.00 in poi e fino ad ore 21** - Sala dedicata per toccare con mano il sistema operativo, provare su strada tutte le sue funzionalità, e per chiedere tutto quello che viene in mente circa GNU/Linux  (supervisione di ugone).
 
@@ -25,10 +25,9 @@ Ad Imperia (Oneglia), presso la [Libreria Ragazzi][1].
 
   - Ugone
   - Valla
-  - Rozzilla
   - Tu? 
 
 
   [1]: http://www.libreriaragazzi.com
   [2]: http://maps.cloudmade.com/?lat=43.889279&lng=8.041177&zoom=17&directions=43.88978594011755,8.04075837135315&travel=car&styleId=1&opened_tab=0
-  [3]: http://www.theshaper.net
+
